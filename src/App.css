@@ -1,38 +1,116 @@
-.App {
-  text-align: center;
+* {
+    font-family: monospace;
+
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+body {
+    background-color: black !important;
+    color: white;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+li {
+    list-style: none;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+li a {
+    font-size: 20px !important;
+    text-transform: uppercase;
 }
 
-.App-link {
-  color: #61dafb;
+
+a {
+    font-size: 20px;
+    font-weight: 800 !important;
+    text-decoration: none !important;
+    color: black !important;
+    text-transform: uppercase;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.botones{
+    border-radius: 10px;
+    
+}
+
+
+.navegador {
+    text-align: center;
+    margin: auto;
+    display: flex;
+    justify-content: center !important;
+    flex-direction: row;
+    background-image: url(https://i.postimg.cc/P58HkWPQ/the-best-arcade-games.webp);
+
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 50%;
+}
+
+.navegador::after {
+    -webkit-filter: blur(8px);
+}
+
+
+.container-navBar {
+    width: 90%;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    justify-content: space-between;
+    padding: 0 15px;
+    align-items: center;
+
+}
+
+.container-nav {
+    display: flex;
+    flex-direction: row;
+    gap: 70px;
+    max-width: 100%;
+    margin: auto;
+    padding-top: 30px;
+}
+
+.container-buscador {
+    width: 100%;
+    text-align: center;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding-top: 35px;
+    padding-bottom: 30px;
+}
+
+#buscador {
+    width: 500px;
+}
+
+.container-contacto {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+
+}
+
+#logo {
+    width: 30px;
+    color: firebrick;
+}
+
+#user {
+    font-size: 25px;
+    color: aqua;
+}
+
+#user:hover {
+    cursor: pointer;
+}
+
+#carro {
+    font-size: 20px;
+    line-height: 30px;
+}
+
+#carro:hover {
+    cursor: pointer;
 }
