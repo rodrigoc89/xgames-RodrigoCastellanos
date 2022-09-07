@@ -1,22 +1,19 @@
 import React from 'react';
+import Item from './Item';
 
-function ItemList({title,price,img,description,id}) {
+function ItemList({data}) {
     return (
         <>
-            <div className='container-item-content'>
-                <div className='card-content'>
-                    <h1 className='card-title'>{title}</h1>
-                    <div className='card-img'>
-                        <img src={img} alt="" />
-                        <div className='card-price'>${price}</div>
-                    </div>
-                </div>
-            </div>
-            <div className='card-description'>
-                <p className='card-text'>{description}</p>
-            </div>
+            {data.map((item) => (
+                <Item key={item.id}
+                title={item.title}
+                description={item.description}
+                price={item.price}
+                img={item.img}
+                />
+            ))}
         </>
-    )
+    );
 }
 
 export default ItemList;

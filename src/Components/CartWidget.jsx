@@ -4,7 +4,7 @@ function CartWidget() {
     return (
 
             <button className="botones">
-                <i id='carro' class="fa-solid fa-cart-shopping"></i>
+                <i id='carro' className="fa-solid fa-cart-shopping"></i>
             </button>
 
 

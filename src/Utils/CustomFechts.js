@@ -1,6 +1,6 @@
 let is_ok = true;
 
-let customFetch = (time, task) => {
+let CustomFetch = (time, task) => {
     return new Promise((resolve, reject) => {
         if (is_ok) {
             setTimeout(() => {
@@ -12,4 +12,4 @@ let customFetch = (time, task) => {
     });
 }
 
-export default customFetch;
+export default CustomFetch;

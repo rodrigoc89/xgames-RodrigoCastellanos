@@ -1,20 +1,21 @@
 import React, { useState, useEffect } from 'react';
-import customFetch from '../Utils/CustomFechts';
-import dataFromBD from '../Utils/Data';
+import CustomFetch from '../Utils/CustomFechts';
+import DataFromBD from '../Utils/Data';
 import ItemList from './ItemList';
 
 const ItemListContainer = () => {
     const [data, setData] = useState([]);
     useEffect(() => {
-        customFetch(2000, dataFromBD)
-            .then((datos) => setData(dataFromBD))
+        CustomFetch(2000, DataFromBD)
+            .then((datos) => setData(DataFromBD))
             .catch((err) => console.log(err));
     }, []);
     return (
         <>
-            <div className='container-item'>
+            <div className='container'>
+                <div className='container-product'>
                 <ItemList data={data} />
-                <button className="buyButton">Comprar</button>
+                </div>
             </div>
         </>
     )

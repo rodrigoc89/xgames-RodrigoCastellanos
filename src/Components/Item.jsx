@@ -1,19 +1,19 @@
 import React from 'react';
 
-function Item(title,price,img,description) {
+function Item({ title, price, img, description, id }) {
     return (
         <>
-            <div className='container-item-content'>
-                <div className='card-content'>
-                    <h1 className='card-title'>{}</h1>
-                    <div className='card-img'>
-                        <img src={img} alt="" />
-                        <div className='card-price'>$</div>
-                    </div>
+            <div className='card-content'>
+                <h1 className='card-title'>{title}</h1>
+
+                <img className='img-fluid' src={img} alt="" />
+                <div className='card-price'><span>${price} </span>
                 </div>
-            </div>
-            <div className='card-description'>
-                <p className='card-text'></p>
+
+                <div className='buy'>
+                    <button className="buyButton">Comprar</button>
+                </div>
+                
             </div>
         </>
     )

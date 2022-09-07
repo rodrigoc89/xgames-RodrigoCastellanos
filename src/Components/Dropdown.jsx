@@ -5,8 +5,8 @@ function Dropdown() {
         <>
             <button className="botones">
                 <li className="nav-item dropdown">
-                    <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">Juegos
-                        <i id='logo' class="fa-solid fa-gamepad"></i>
+                    <a className="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">Juegos
+                        <i id='logo' className="fa-solid fa-gamepad"></i>
                     </a>
 
                     <ul className="dropdown-menu" aria-labelledby="navbarDropdown">
