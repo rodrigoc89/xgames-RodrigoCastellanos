@@ -4,8 +4,9 @@
 }
 
 body {
-    background-color: rgb(44, 7, 113) !important;
+    background-color: rgb(0, 6, 9) !important;
     color: white;
+    /* background-image: url(https://i.postimg.cc/MTrX9TyX/xg-horizontal-black-red-retina.png); */
 }
 
 li {
@@ -26,9 +27,9 @@ a {
     text-transform: uppercase;
 }
 
-.botones{
+.botones {
     border-radius: 10px;
-    
+
 }
 
 
@@ -91,54 +92,106 @@ a {
 
 }
 
-.container{
+.container {
     display: flex;
     justify-content: center;
     margin: auto;
 }
 
-.container-product{
+.container-product {
     display: grid;
     grid-template-rows: repeat(auto, 1fr);
     grid-template-columns: repeat(4, 1fr);
 }
 
-.card-content{
-    background-color:black;
+.card-content {
+    background-color: black;
     width: 330px;
-    height : 450px;
+    height: 450px;
     margin: 20px;
     display: flex;
     justify-content: space-between;
     flex-direction: column;
-    border: 2px solid #8b069d ;
-    border-bottom: 2px #8b069d  solid;
-    border-right: 2px #8b069d  solid;
+    border: 2px solid;
+    /* border-bottom: 2px #8b069d  solid;
+    border-right: 2px #8b069d  solid; */
     border-radius: 10px;
-   
+
+}
+
+.card-content:hover {
+    border: 2px solid #8b069d;
+    border-bottom: 2px #8b069d solid;
+    border-right: 2px #8b069d solid;
+    border-radius: 10px;
+    cursor: pointer;
 }
 
 
-.card-title{
+
+.card-title {
     text-align: center;
+    font-size: 30px;
+    height: 50px;
+    color: #06639d;
+    text-transform: uppercase;
+
 }
 
-.card-img{
+.card-img {}
 
-}
-
-.card-price{
+.card-price {
     flex-direction: column;
+    display: flex;
+    font-size: 30px;
+    text-align: center;
+    color: #9d2c06;
 }
 
-.buy{
+.buy {
     flex-direction: column;
+    display: flex;
+
 }
 
-.card-description{
+.buyButton {
+    border: 3px;
+    padding: 3px;
+    margin: auto;
+}
+
+.card-description {
     flex-direction: column;
     display: flex;
     align-items: center;
+}
+
+
+.container-detail{
+    display: flex;
+    flex-direction: column;
+    color: white;
+}
+
+.item-detail{
+    display: flex;
+    
+}
+
+.item-title{
+
+}
+
+.item-price{
+
+}
+
+.item-detail-description{
+
+}
+
+.item-requirements{
+
 }
 
 #logo {
@@ -163,3 +216,4 @@ a {
 #carro:hover {
     cursor: pointer;
 }
+
