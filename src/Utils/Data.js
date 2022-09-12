@@ -6,6 +6,7 @@ const dataFromBD = [
         description: 'Lorem ipsum dolor sit, amet consectetur adipisicing elit.Placeat nulla quasi tempore perferendis, debitis alias, excepturi doloribus repellat aut velit ab! Saepe, recusandae vero.Ipsam architecto vitae pariatur a.Quidem.',
         price: 100,
         stock: 10,
+        requirements:'lorem ipsum dolor sit amet, ipsum dolor sit amet, ipsum dolor sit amet, ipsum',
 
     },
     {
@@ -15,6 +16,8 @@ const dataFromBD = [
         description: 'Lorem ipsum dolor sit, amet consectetur adipisicing elit.Placeat nulla quasi tempore perferendis, debitis alias, excepturi doloribus repellat aut velit ab! Saepe, recusandae vero.Ipsam architecto vitae pariatur a.Quidem.',
         price: 100,
         stock: 10,
+        requirements:'lorem ipsum dolor sit amet, ipsum dolor sit amet, ipsum dolor sit amet, ipsum',
+
 
     },
     {
@@ -24,6 +27,8 @@ const dataFromBD = [
         description: 'Lorem ipsum dolor sit, amet consectetur adipisicing elit.Placeat nulla quasi tempore perferendis, debitis alias, excepturi doloribus repellat aut velit ab! Saepe, recusandae vero.Ipsam architecto vitae pariatur a.Quidem.',
         price: 100,
         stock: 10,
+        requirements:'lorem ipsum dolor sit amet, ipsum dolor sit amet, ipsum dolor sit amet, ipsum',
+
 
     },
     {
@@ -33,7 +38,18 @@ const dataFromBD = [
         description: 'Lorem ipsum dolor sit, amet consectetur adipisicing elit.Placeat nulla quasi tempore perferendis, debitis alias, excepturi doloribus repellat aut velit ab! Saepe, recusandae vero.Ipsam architecto vitae pariatur a.Quidem.',
         price: 100,
         stock: 10,
-
+        requeriments:
+        {
+            Minimo: {
+                SO: 'Windows 7 64Bit',
+                Procesador:'Procesador: Intel® Core™ 2 Duo 3.0Ghz',
+                Memoria:'3 GB de RAM',
+                Gráfricos: '(DirectX 11) AMD Radeon HD 5770 1024MB | NVIDIA GTS 450 1024MB | Intel HD4000 @720P',
+                DirectX: 'Versión 11',
+                Almacenamiento:' 35 GB de espacio disponible',
+                Notas:'PC Integrated graphics chipsets require 4 GB RAM, e.g. Intel HD series.',
+            }
+        } 
     },
     {
         id: 105,

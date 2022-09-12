@@ -43,6 +43,7 @@ a {
 
     background-size: cover;
     background-repeat: no-repeat;
+    margin-bottom: 100px;
 }
 
 .navegador::after {
@@ -148,10 +149,10 @@ a {
     color: #9d2c06;
 }
 
-.buy {
-    flex-direction: column;
-    display: flex;
+#buy {
 
+    display: flex;
+   margin: auto;
 }
 
 .buyButton {
@@ -167,32 +168,51 @@ a {
 }
 
 
-.container-detail{
+.container-detail {
+    display: flex;
+    flex-direction: row;
+    color: white;
+    width: 90%;
+    text-align: center;
+    align-items: center;
+    margin: auto;
+}
+
+.item-detail {
     display: flex;
     flex-direction: column;
-    color: white;
+
 }
 
-.item-detail{
+.item-title {}
+
+.item-price {
+    margin-top: 20px;
+}
+
+.item-detail-description {
     display: flex;
-    
+    flex-direction: column;
+    margin: auto;
 }
 
-.item-title{
-
-}
-
-.item-price{
-
-}
-
-.item-detail-description{
+.item-description {
+    width: 50%;
+    margin: auto;
+    padding: auto;
+    text-align: center;
 
 }
 
-.item-requirements{
-
+.item-requiriments {
+    padding: auto;
+    margin: auto;
+    text-align: center;
+    width: 50%;
+    display: flex;
+   
 }
+
 
 #logo {
     width: 30px;
@@ -216,4 +236,3 @@ a {
 #carro:hover {
     cursor: pointer;
 }
-
