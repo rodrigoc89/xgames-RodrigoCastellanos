@@ -2,6 +2,8 @@ import React from 'react';
 import Search from './Search'
 import Dropdown from './Dropdown';
 import CartWidget from './CartWidget';
+import { Link } from 'react-router-dom';
+
 
 
 function NavBar() {
@@ -9,14 +11,14 @@ function NavBar() {
         <>
             <nav className="navegador">
                 <div className="container-navBar">
-                    <img className='img-fluid' src="https://i.postimg.cc/MTrX9TyX/xg-horizontal-black-red-retina.png" alt="xgames" />
+                   <Link to='/'><img className='img-fluid' src="https://i.postimg.cc/MTrX9TyX/xg-horizontal-black-red-retina.png" alt="xgames" /></Link> 
                     <div className="container-nav">
                     <Dropdown/>
                     <button className="botones">
-                    <a href="#" target="_blank">Tiendas</a>
+                    <a href="#" target="">Tiendas</a>
                     </button>
                     <button className="botones">
-                    <a href="#" target="_blank">Contacto</a>
+                    <a href="#" target="">Contacto</a>
                     </button>
                     <CartWidget/>
                     <button className="botones">

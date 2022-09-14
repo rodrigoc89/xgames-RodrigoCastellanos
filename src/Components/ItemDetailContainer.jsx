@@ -1,36 +1,35 @@
 import React, { useState, useEffect } from 'react';
 import ItemDetail from './ItemDetail';
 import dataFromBD from '../Utils/Data';
+import { useParams } from 'react-router-dom';
+import Loading from './Loading';
 
-// const detail = {
-//     id: 104,
-//     title: 'Total War: WARHAMMER',
-//     img: 'https://i.postimg.cc/bvTNb0jh/warhamer.jpg',
-//     description: 'Lorem ipsum dolor sit, amet consectetur adipisicing elit.Placeat nulla quasi tempore perferendis, debitis alias, excepturi doloribus repellat aut velit ab! Saepe, recusandae vero.Ipsam architecto vitae pariatur a.Quidem.',
-//     price: 100,
-//     stock: 10,
-//     requiriments: 'lorem ipsum dolor sit, amet consectetur adipisicing elit.Placeat nulla quasi tempore perferend',
-  
-
-// }
 
 const ItemDetailContainer = () => {
     const [data, setData] = useState({});
+    const { idItem } = useParams()
+    const [isLoading, setIsLoading] = useState(true);
 
     useEffect(() => {
         const getData = new Promise(resolve => {
             setTimeout(() => {
-                resolve(dataFromBD[1]);
+                resolve(dataFromBD);
             }, 2000);
         });
 
-        getData.then(res => setData(res));
-    })
+        getData.then(res => setData(res.find(item => item.id === parseInt(idItem))));
+        const getIsLoading = new Promise((resolve) => {
+            setTimeout(() => {
+                resolve(false);
+            }, 2000);
+        });
+        getIsLoading.then(res => setIsLoading(res));
+    }, [idItem])
     console.log(data);
 
     return (
         <>
-            <ItemDetail data={data} />
+            {isLoading === false ? <ItemDetail data={data} /> : <Loading />}
         </>
     )
 };

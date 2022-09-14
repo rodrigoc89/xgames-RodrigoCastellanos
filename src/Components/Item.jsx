@@ -1,8 +1,10 @@
 import React from 'react';
+import { Link } from 'react-router-dom';
 
 function Item({ title, price, img, description, id }) {
     return (
         <>
+        <Link to={`/item/${id}`}>
             <div className='card-content'>
                 <h1 className='card-title'>{title}</h1>
 
@@ -17,6 +19,7 @@ function Item({ title, price, img, description, id }) {
                 </div>
                  */}
             </div>
+        </Link>
         </>
     )
 }
