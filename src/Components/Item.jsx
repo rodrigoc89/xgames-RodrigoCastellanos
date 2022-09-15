@@ -11,7 +11,7 @@ function Item({ title, price, img, description, id }) {
                 <img className='img-fluid' src={img} alt="" />
                 
                 <div className='card-price'>
-                    <p>${price} </p>
+                    <p><span className='peso'>$</span> {price} </p>
                 </div>
 
                 {/* <div className='buy'>

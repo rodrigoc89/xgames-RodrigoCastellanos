@@ -13,18 +13,22 @@ const ItemListContainer = () => {
                 resolve(dataFromBD);
             }, 0);
         });
+
         if (nameCategory) {
             getData.then(res => setData(res.filter(item => item.category === nameCategory)));
         } else {
             getData.then((res) => setData(res));
         }
+
         const getIsLoading = new Promise((resolve) => {
             setTimeout(() => {
                 resolve(false);
             }, 2000);
         });
+
         getIsLoading.then(res => setIsLoading(res));
     }, [nameCategory])
+    
     return (
         <>
             {

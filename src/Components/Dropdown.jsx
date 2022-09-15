@@ -6,7 +6,7 @@ function Dropdown() {
         <>
             <button className="botones">
                 <li className="nav-item dropdown">
-                    <a className="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">Juegos
+                    <a className="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false"><span className='botones-nav'>JUEGOS</span>
                         <i id='logo' className="fa-solid fa-gamepad"></i>
                     </a>
 
@@ -18,7 +18,8 @@ function Dropdown() {
                         <li><Link className='dropdown-item' to='/category/estrategia'>Estrategia</Link></li>
                         <li><Link className='dropdown-item' to='/category/shoter'>Shoter</Link></li>
                         <li><Link className='dropdown-item' to='/category/rol'>Rol</Link></li>
-                        <li><Link className='dropdown-item' to='/category/simulador'>Simuladores</Link></li>
+                        <li><Link className='dropdown-item' to='/category/simuladores'>Simuladores</Link></li>
+                        <li><Link className='dropdown-item' to='/category/supervivencia'>SuperSupervivencia</Link></li>
                     </ul>
                 </li>
             </button>
