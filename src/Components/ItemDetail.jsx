@@ -1,6 +1,7 @@
 import React, { useState } from 'react';
 import { Link } from 'react-router-dom';
 import ButtonBuy from './ButtonBuy';
+import ItemCount from './ItemCount';
 
 
 export const ItemDetail = ({ data }) => {
@@ -22,7 +23,7 @@ export const ItemDetail = ({ data }) => {
                     </div>
                     <h2 className='item-price'>$ {data.price}</h2>
                     {
-                        goToCart ? <Link to='/cart'>Terminar Compra</Link> : <ButtonBuy   onAdd={onAdd} />
+                        goToCart ? <Link to='/cart'>Terminar Compra</Link> : <ItemCount initial={1} stock={data.stock}  onAdd={onAdd}/>
                     }
                     </div>
                     <div className='col-6'>

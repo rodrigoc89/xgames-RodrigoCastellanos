@@ -1,7 +1,7 @@
 import React, {useState} from 'react';
 
 
-function ItemCount({stock, initial}){
+function ItemCount({stock, initial,onAdd}){
     const [count, setCount] = useState(initial);
 
     const sumar = () =>{
@@ -20,9 +20,6 @@ function ItemCount({stock, initial}){
         setCount(initial);
     }
 
-    const onAdd = () => {
-        alert("Enviaste al carrito " + count + " producto")
-    }
 
     return (
         <>
