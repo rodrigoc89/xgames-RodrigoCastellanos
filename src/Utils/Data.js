@@ -17,7 +17,7 @@ const dataFromBD = [
         description: 'Lorem ipsum dolor sit, amet consectetur adipisicing elit.Placeat nulla quasi tempore perferendis, debitis alias, excepturi doloribus repellat aut velit ab! Saepe, recusandae vero.Ipsam architecto vitae pariatur a.Quidem.',
         price: 100,
         stock: 10,
-        requirements:'lorem ipsum dolor sit amet, ipsum dolor sit amet, ipsum dolor sit amet, ipsum',
+        requirements: 'lorem ipsum dolor sit amet, ipsum dolor sit amet, ipsum dolor sit amet, ipsum',
         category: 'estrategia'
 
     },
@@ -39,18 +39,9 @@ const dataFromBD = [
         description: 'Lorem ipsum dolor sit, amet consectetur adipisicing elit.Placeat nulla quasi tempore perferendis, debitis alias, excepturi doloribus repellat aut velit ab! Saepe, recusandae vero.Ipsam architecto vitae pariatur a.Quidem.',
         price: 100,
         stock: 10,
+        requirements:'lorem ipsum dolor sit amet, ipsum dolor sit amet, ipsum dolor sit amet, ipsum',
         category: 'estrategia',
-        requeriments:{
-            minimo: {
-                so: 'Windows 7 64Bit',
-                procesador:'Procesador: Intel® Core™ 2 Duo 3.0Ghz',
-                memoria:'3 GB de RAM',
-                grafricos: '(DirectX 11) AMD Radeon HD 5770 1024MB | NVIDIA GTS 450 1024MB | Intel HD4000 @720P',
-                directX: 'Versión 11',
-                almacenamiento:' 35 GB de espacio disponible',
-                notas:'PC Integrated graphics chipsets require 4 GB RAM, e.g. Intel HD series.',
-            }
-        } 
+        
     },
     {
         id: 105,
@@ -59,6 +50,7 @@ const dataFromBD = [
         description: 'Lorem ipsum dolor sit, amet consectetur adipisicing elit.Placeat nulla quasi tempore perferendis, debitis alias, excepturi doloribus repellat aut velit ab! Saepe, recusandae vero.Ipsam architecto vitae pariatur a.Quidem.',
         price: 100,
         stock: 10,
+        requirements:'lorem ipsum dolor sit amet, ipsum dolor sit amet, ipsum dolor sit amet, ipsum',
         category: 'estrategia'
 
     },
@@ -69,6 +61,7 @@ const dataFromBD = [
         description: 'Lorem ipsum dolor sit, amet consectetur adipisicing elit.Placeat nulla quasi tempore perferendis, debitis alias, excepturi doloribus repellat aut velit ab! Saepe, recusandae vero.Ipsam architecto vitae pariatur a.Quidem.',
         price: 100,
         stock: 10,
+        requirements:'lorem ipsum dolor sit amet, ipsum dolor sit amet, ipsum dolor sit amet, ipsum',
         category: 'estrategia'
 
     },
@@ -79,6 +72,7 @@ const dataFromBD = [
         description: 'Lorem ipsum dolor sit, amet consectetur adipisicing elit.Placeat nulla quasi tempore perferendis, debitis alias, excepturi doloribus repellat aut velit ab! Saepe, recusandae vero.Ipsam architecto vitae pariatur a.Quidem.',
         price: 100,
         stock: 10,
+        requirements:'lorem ipsum dolor sit amet, ipsum dolor sit amet, ipsum dolor sit amet, ipsum',
         category: 'estrategia'
 
     },
@@ -89,6 +83,7 @@ const dataFromBD = [
         description: 'Lorem ipsum dolor sit, amet consectetur adipisicing elit.Placeat nulla quasi tempore perferendis, debitis alias, excepturi doloribus repellat aut velit ab! Saepe, recusandae vero.Ipsam architecto vitae pariatur a.Quidem.',
         price: 100,
         stock: 10,
+        requirements:'lorem ipsum dolor sit amet, ipsum dolor sit amet, ipsum dolor sit amet, ipsum',
         category: 'estrategia'
 
     },
@@ -99,6 +94,7 @@ const dataFromBD = [
         description: 'Lorem ipsum dolor sit, amet consectetur adipisicing elit.Placeat nulla quasi tempore perferendis, debitis alias, excepturi doloribus repellat aut velit ab! Saepe, recusandae vero.Ipsam architecto vitae pariatur a.Quidem.',
         price: 100,
         stock: 10,
+        requirements:'lorem ipsum dolor sit amet, ipsum dolor sit amet, ipsum dolor sit amet, ipsum',
         category: 'estrategia'
 
     },
@@ -109,6 +105,7 @@ const dataFromBD = [
         description: 'Lorem ipsum dolor sit, amet consectetur adipisicing elit.Placeat nulla quasi tempore perferendis, debitis alias, excepturi doloribus repellat aut velit ab! Saepe, recusandae vero.Ipsam architecto vitae pariatur a.Quidem.',
         price: 100,
         stock: 10,
+        requirements:'lorem ipsum dolor sit amet, ipsum dolor sit amet, ipsum dolor sit amet, ipsum',
         category: 'estrategia'
 
     },
@@ -119,6 +116,7 @@ const dataFromBD = [
         description: 'Lorem ipsum dolor sit, amet consectetur adipisicing elit.Placeat nulla quasi tempore perferendis, debitis alias, excepturi doloribus repellat aut velit ab! Saepe, recusandae vero.Ipsam architecto vitae pariatur a.Quidem.',
         price: 100,
         stock: 10,
+        requirements:'lorem ipsum dolor sit amet, ipsum dolor sit amet, ipsum dolor sit amet, ipsum',
         category: 'estrategia'
 
     },
@@ -130,6 +128,7 @@ const dataFromBD = [
         description: 'Lorem ipsum dolor sit, amet consectetur adipisicing elit.Placeat nulla quasi tempore perferendis, debitis alias, excepturi doloribus repellat aut velit ab! Saepe, recusandae vero.Ipsam architecto vitae pariatur a.Quidem.',
         price: 100,
         stock: 10,
+        requirements:'lorem ipsum dolor sit amet, ipsum dolor sit amet, ipsum dolor sit amet, ipsum',
         category: 'aventura'
     },
     {
@@ -139,6 +138,7 @@ const dataFromBD = [
         description: 'Lorem ipsum dolor sit, amet consectetur adipisicing elit.Placeat nulla quasi tempore perferendis, debitis alias, excepturi doloribus repellat aut velit ab! Saepe, recusandae vero.Ipsam architecto vitae pariatur a.Quidem.',
         price: 100,
         stock: 10,
+        requirements:'lorem ipsum dolor sit amet, ipsum dolor sit amet, ipsum dolor sit amet, ipsum',
         category: 'accion',
     },
     {
@@ -148,6 +148,7 @@ const dataFromBD = [
         description: 'Lorem ipsum dolor sit, amet consectetur adipisicing elit.Placeat nulla quasi tempore perferendis, debitis alias, excepturi doloribus repellat aut velit ab! Saepe, recusandae vero.Ipsam architecto vitae pariatur a.Quidem.',
         price: 100,
         stock: 10,
+        requirements:'lorem ipsum dolor sit amet, ipsum dolor sit amet, ipsum dolor sit amet, ipsum',
         category: 'aventura',
     },
     {
@@ -157,6 +158,7 @@ const dataFromBD = [
         description: 'Lorem ipsum dolor sit, amet consectetur adipisicing elit.Placeat nulla quasi tempore perferendis, debitis alias, excepturi doloribus repellat aut velit ab! Saepe, recusandae vero.Ipsam architecto vitae pariatur a.Quidem.',
         price: 100,
         stock: 10,
+        requirements:'lorem ipsum dolor sit amet, ipsum dolor sit amet, ipsum dolor sit amet, ipsum',
         category: 'accion',
     },
     {
@@ -166,6 +168,7 @@ const dataFromBD = [
         description: 'Lorem ipsum dolor sit, amet consectetur adipisicing elit.Placeat nulla quasi tempore perferendis, debitis alias, excepturi doloribus repellat aut velit ab! Saepe, recusandae vero.Ipsam architecto vitae pariatur a.Quidem.',
         price: 100,
         stock: 10,
+        requirements:'lorem ipsum dolor sit amet, ipsum dolor sit amet, ipsum dolor sit amet, ipsum',
         category: 'accion',
     },
     {
@@ -175,6 +178,7 @@ const dataFromBD = [
         description: 'Lorem ipsum dolor sit, amet consectetur adipisicing elit.Placeat nulla quasi tempore perferendis, debitis alias, excepturi doloribus repellat aut velit ab! Saepe, recusandae vero.Ipsam architecto vitae pariatur a.Quidem.',
         price: 100,
         stock: 10,
+        requirements:'lorem ipsum dolor sit amet, ipsum dolor sit amet, ipsum dolor sit amet, ipsum',
         category: 'accion',
     },
     {
@@ -184,6 +188,7 @@ const dataFromBD = [
         description: 'Lorem ipsum dolor sit, amet consectetur adipisicing elit.Placeat nulla quasi tempore perferendis, debitis alias, excepturi doloribus repellat aut velit ab! Saepe, recusandae vero.Ipsam architecto vitae pariatur a.Quidem.',
         price: 100,
         stock: 10,
+        requirements:'lorem ipsum dolor sit amet, ipsum dolor sit amet, ipsum dolor sit amet, ipsum',
         category: 'accion',
     },
     {
@@ -193,6 +198,7 @@ const dataFromBD = [
         description: 'Lorem ipsum dolor sit, amet consectetur adipisicing elit.Placeat nulla quasi tempore perferendis, debitis alias, excepturi doloribus repellat aut velit ab! Saepe, recusandae vero.Ipsam architecto vitae pariatur a.Quidem.',
         price: 100,
         stock: 10,
+        requirements:'lorem ipsum dolor sit amet, ipsum dolor sit amet, ipsum dolor sit amet, ipsum',
         category: 'accion',
     },
     {
@@ -202,6 +208,7 @@ const dataFromBD = [
         description: 'Lorem ipsum dolor sit, amet consectetur adipisicing elit.Placeat nulla quasi tempore perferendis, debitis alias, excepturi doloribus repellat aut velit ab! Saepe, recusandae vero.Ipsam architecto vitae pariatur a.Quidem.',
         price: 100,
         stock: 10,
+        requirements:'lorem ipsum dolor sit amet, ipsum dolor sit amet, ipsum dolor sit amet, ipsum',
         category: 'accion',
     },
     {
@@ -211,6 +218,7 @@ const dataFromBD = [
         description: 'Lorem ipsum dolor sit, amet consectetur adipisicing elit.Placeat nulla quasi tempore perferendis, debitis alias, excepturi doloribus repellat aut velit ab! Saepe, recusandae vero.Ipsam architecto vitae pariatur a.Quidem.',
         price: 100,
         stock: 10,
+        requirements:'lorem ipsum dolor sit amet, ipsum dolor sit amet, ipsum dolor sit amet, ipsum',
         category: 'accion',
     },
     {
@@ -220,6 +228,7 @@ const dataFromBD = [
         description: 'Lorem ipsum dolor sit, amet consectetur adipisicing elit.Placeat nulla quasi tempore perferendis, debitis alias, excepturi doloribus repellat aut velit ab! Saepe, recusandae vero.Ipsam architecto vitae pariatur a.Quidem.',
         price: 100,
         stock: 10,
+        requirements:'lorem ipsum dolor sit amet, ipsum dolor sit amet, ipsum dolor sit amet, ipsum',
         category: 'aventura',
     },
     {
@@ -229,6 +238,7 @@ const dataFromBD = [
         description: 'Lorem ipsum dolor sit, amet consectetur adipisicing elit.Placeat nulla quasi tempore perferendis, debitis alias, excepturi doloribus repellat aut velit ab! Saepe, recusandae vero.Ipsam architecto vitae pariatur a.Quidem.',
         price: 100,
         stock: 10,
+        requirements:'lorem ipsum dolor sit amet, ipsum dolor sit amet, ipsum dolor sit amet, ipsum',
         category: 'estrategia',
     },
     {
@@ -238,6 +248,7 @@ const dataFromBD = [
         description: 'Lorem ipsum dolor sit, amet consectetur adipisicing elit.Placeat nulla quasi tempore perferendis, debitis alias, excepturi doloribus repellat aut velit ab! Saepe, recusandae vero.Ipsam architecto vitae pariatur a.Quidem.',
         price: 100,
         stock: 10,
+        requirements:'lorem ipsum dolor sit amet, ipsum dolor sit amet, ipsum dolor sit amet, ipsum',
         category: 'multiplayer',
     },
     {
@@ -247,6 +258,7 @@ const dataFromBD = [
         description: 'Lorem ipsum dolor sit, amet consectetur adipisicing elit.Placeat nulla quasi tempore perferendis, debitis alias, excepturi doloribus repellat aut velit ab! Saepe, recusandae vero.Ipsam architecto vitae pariatur a.Quidem.',
         price: 100,
         stock: 10,
+        requirements:'lorem ipsum dolor sit amet, ipsum dolor sit amet, ipsum dolor sit amet, ipsum',
         category: 'accion',
     },
     {
@@ -256,6 +268,7 @@ const dataFromBD = [
         description: 'Lorem ipsum dolor sit, amet consectetur adipisicing elit.Placeat nulla quasi tempore perferendis, debitis alias, excepturi doloribus repellat aut velit ab! Saepe, recusandae vero.Ipsam architecto vitae pariatur a.Quidem.',
         price: 100,
         stock: 10,
+        requirements:'lorem ipsum dolor sit amet, ipsum dolor sit amet, ipsum dolor sit amet, ipsum',
         category: 'accion',
     },
     {
@@ -265,6 +278,7 @@ const dataFromBD = [
         description: 'Lorem ipsum dolor sit, amet consectetur adipisicing elit.Placeat nulla quasi tempore perferendis, debitis alias, excepturi doloribus repellat aut velit ab! Saepe, recusandae vero.Ipsam architecto vitae pariatur a.Quidem.',
         price: 100,
         stock: 10,
+        requirements:'lorem ipsum dolor sit amet, ipsum dolor sit amet, ipsum dolor sit amet, ipsum',
         category: 'aventura',
     },
     {
@@ -274,6 +288,7 @@ const dataFromBD = [
         description: 'Lorem ipsum dolor sit, amet consectetur adipisicing elit.Placeat nulla quasi tempore perferendis, debitis alias, excepturi doloribus repellat aut velit ab! Saepe, recusandae vero.Ipsam architecto vitae pariatur a.Quidem.',
         price: 100,
         stock: 10,
+        requirements:'lorem ipsum dolor sit amet, ipsum dolor sit amet, ipsum dolor sit amet, ipsum',
         category: 'aventura',
     },
     {
@@ -283,6 +298,7 @@ const dataFromBD = [
         description: 'Lorem ipsum dolor sit, amet consectetur adipisicing elit.Placeat nulla quasi tempore perferendis, debitis alias, excepturi doloribus repellat aut velit ab! Saepe, recusandae vero.Ipsam architecto vitae pariatur a.Quidem.',
         price: 100,
         stock: 10,
+        requirements:'lorem ipsum dolor sit amet, ipsum dolor sit amet, ipsum dolor sit amet, ipsum',
         category: 'aventura',
     },
     {
@@ -292,6 +308,7 @@ const dataFromBD = [
         description: 'Lorem ipsum dolor sit, amet consectetur adipisicing elit.Placeat nulla quasi tempore perferendis, debitis alias, excepturi doloribus repellat aut velit ab! Saepe, recusandae vero.Ipsam architecto vitae pariatur a.Quidem.',
         price: 100,
         stock: 10,
+        requirements:'lorem ipsum dolor sit amet, ipsum dolor sit amet, ipsum dolor sit amet, ipsum',
         category: 'simuladores',
     },
     {
@@ -301,6 +318,7 @@ const dataFromBD = [
         description: 'Lorem ipsum dolor sit, amet consectetur adipisicing elit.Placeat nulla quasi tempore perferendis, debitis alias, excepturi doloribus repellat aut velit ab! Saepe, recusandae vero.Ipsam architecto vitae pariatur a.Quidem.',
         price: 100,
         stock: 10,
+        requirements:'lorem ipsum dolor sit amet, ipsum dolor sit amet, ipsum dolor sit amet, ipsum',
         category: 'aventura',
     },
     {
@@ -310,6 +328,7 @@ const dataFromBD = [
         description: 'Lorem ipsum dolor sit, amet consectetur adipisicing elit.Placeat nulla quasi tempore perferendis, debitis alias, excepturi doloribus repellat aut velit ab! Saepe, recusandae vero.Ipsam architecto vitae pariatur a.Quidem.',
         price: 100,
         stock: 10,
+        requirements:'lorem ipsum dolor sit amet, ipsum dolor sit amet, ipsum dolor sit amet, ipsum',
         category: 'multiplayer',
     },
     {
@@ -319,6 +338,7 @@ const dataFromBD = [
         description: 'Lorem ipsum dolor sit, amet consectetur adipisicing elit.Placeat nulla quasi tempore perferendis, debitis alias, excepturi doloribus repellat aut velit ab! Saepe, recusandae vero.Ipsam architecto vitae pariatur a.Quidem.',
         price: 100,
         stock: 10,
+        requirements:'lorem ipsum dolor sit amet, ipsum dolor sit amet, ipsum dolor sit amet, ipsum',
         category: 'supervivencia',
     },
     {
@@ -328,6 +348,7 @@ const dataFromBD = [
         description: 'Lorem ipsum dolor sit, amet consectetur adipisicing elit.Placeat nulla quasi tempore perferendis, debitis alias, excepturi doloribus repellat aut velit ab! Saepe, recusandae vero.Ipsam architecto vitae pariatur a.Quidem.',
         price: 100,
         stock: 10,
+        requirements:'lorem ipsum dolor sit amet, ipsum dolor sit amet, ipsum dolor sit amet, ipsum',
         category: 'carreras',
     },
     {
@@ -337,6 +358,7 @@ const dataFromBD = [
         description: 'Lorem ipsum dolor sit, amet consectetur adipisicing elit.Placeat nulla quasi tempore perferendis, debitis alias, excepturi doloribus repellat aut velit ab! Saepe, recusandae vero.Ipsam architecto vitae pariatur a.Quidem.',
         price: 100,
         stock: 10,
+        requirements:'lorem ipsum dolor sit amet, ipsum dolor sit amet, ipsum dolor sit amet, ipsum',
         category: 'carreras',
     },
     {
@@ -346,6 +368,7 @@ const dataFromBD = [
         description: 'Lorem ipsum dolor sit, amet consectetur adipisicing elit.Placeat nulla quasi tempore perferendis, debitis alias, excepturi doloribus repellat aut velit ab! Saepe, recusandae vero.Ipsam architecto vitae pariatur a.Quidem.',
         price: 100,
         stock: 10,
+        requirements:'lorem ipsum dolor sit amet, ipsum dolor sit amet, ipsum dolor sit amet, ipsum',
         category: 'simuladores',
     },
     {
@@ -355,6 +378,7 @@ const dataFromBD = [
         description: 'Lorem ipsum dolor sit, amet consectetur adipisicing elit.Placeat nulla quasi tempore perferendis, debitis alias, excepturi doloribus repellat aut velit ab! Saepe, recusandae vero.Ipsam architecto vitae pariatur a.Quidem.',
         price: 100,
         stock: 10,
+        requirements:'lorem ipsum dolor sit amet, ipsum dolor sit amet, ipsum dolor sit amet, ipsum',
         category: 'carreras',
     },
     {
@@ -364,6 +388,7 @@ const dataFromBD = [
         description: 'Lorem ipsum dolor sit, amet consectetur adipisicing elit.Placeat nulla quasi tempore perferendis, debitis alias, excepturi doloribus repellat aut velit ab! Saepe, recusandae vero.Ipsam architecto vitae pariatur a.Quidem.',
         price: 100,
         stock: 10,
+        requirements:'lorem ipsum dolor sit amet, ipsum dolor sit amet, ipsum dolor sit amet, ipsum',
         category: 'carreras',
     },
     {
@@ -373,6 +398,7 @@ const dataFromBD = [
         description: 'Lorem ipsum dolor sit, amet consectetur adipisicing elit.Placeat nulla quasi tempore perferendis, debitis alias, excepturi doloribus repellat aut velit ab! Saepe, recusandae vero.Ipsam architecto vitae pariatur a.Quidem.',
         price: 100,
         stock: 10,
+        requirements:'lorem ipsum dolor sit amet, ipsum dolor sit amet, ipsum dolor sit amet, ipsum',
         category: 'carreras',
     },
     {
@@ -382,6 +408,7 @@ const dataFromBD = [
         description: 'Lorem ipsum dolor sit, amet consectetur adipisicing elit.Placeat nulla quasi tempore perferendis, debitis alias, excepturi doloribus repellat aut velit ab! Saepe, recusandae vero.Ipsam architecto vitae pariatur a.Quidem.',
         price: 100,
         stock: 10,
+        requirements:'lorem ipsum dolor sit amet, ipsum dolor sit amet, ipsum dolor sit amet, ipsum',
         category: 'carreras',
     },
     {
@@ -391,6 +418,7 @@ const dataFromBD = [
         description: 'Lorem ipsum dolor sit, amet consectetur adipisicing elit.Placeat nulla quasi tempore perferendis, debitis alias, excepturi doloribus repellat aut velit ab! Saepe, recusandae vero.Ipsam architecto vitae pariatur a.Quidem.',
         price: 100,
         stock: 10,
+        requirements:'lorem ipsum dolor sit amet, ipsum dolor sit amet, ipsum dolor sit amet, ipsum',
         category: 'simuladores',
     },
     {
@@ -400,6 +428,7 @@ const dataFromBD = [
         description: 'Lorem ipsum dolor sit, amet consectetur adipisicing elit.Placeat nulla quasi tempore perferendis, debitis alias, excepturi doloribus repellat aut velit ab! Saepe, recusandae vero.Ipsam architecto vitae pariatur a.Quidem.',
         price: 100,
         stock: 10,
+        requirements:'lorem ipsum dolor sit amet, ipsum dolor sit amet, ipsum dolor sit amet, ipsum',
         category: 'rol',
     },
     {
@@ -409,6 +438,7 @@ const dataFromBD = [
         description: 'Lorem ipsum dolor sit, amet consectetur adipisicing elit.Placeat nulla quasi tempore perferendis, debitis alias, excepturi doloribus repellat aut velit ab! Saepe, recusandae vero.Ipsam architecto vitae pariatur a.Quidem.',
         price: 100,
         stock: 10,
+        requirements:'lorem ipsum dolor sit amet, ipsum dolor sit amet, ipsum dolor sit amet, ipsum',
         category: 'rol',
     },
     {
@@ -418,6 +448,7 @@ const dataFromBD = [
         description: 'Lorem ipsum dolor sit, amet consectetur adipisicing elit.Placeat nulla quasi tempore perferendis, debitis alias, excepturi doloribus repellat aut velit ab! Saepe, recusandae vero.Ipsam architecto vitae pariatur a.Quidem.',
         price: 100,
         stock: 10,
+        requirements:'lorem ipsum dolor sit amet, ipsum dolor sit amet, ipsum dolor sit amet, ipsum',
         category: 'rol',
     },
     {
@@ -427,6 +458,7 @@ const dataFromBD = [
         description: 'Lorem ipsum dolor sit, amet consectetur adipisicing elit.Placeat nulla quasi tempore perferendis, debitis alias, excepturi doloribus repellat aut velit ab! Saepe, recusandae vero.Ipsam architecto vitae pariatur a.Quidem.',
         price: 100,
         stock: 10,
+        requirements:'lorem ipsum dolor sit amet, ipsum dolor sit amet, ipsum dolor sit amet, ipsum',
         category: 'rol',
     },
     {
@@ -436,6 +468,7 @@ const dataFromBD = [
         description: 'Lorem ipsum dolor sit, amet consectetur adipisicing elit.Placeat nulla quasi tempore perferendis, debitis alias, excepturi doloribus repellat aut velit ab! Saepe, recusandae vero.Ipsam architecto vitae pariatur a.Quidem.',
         price: 100,
         stock: 10,
+        requirements:'lorem ipsum dolor sit amet, ipsum dolor sit amet, ipsum dolor sit amet, ipsum',
         category: 'rol',
     },
 ]

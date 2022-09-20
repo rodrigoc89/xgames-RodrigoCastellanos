@@ -3,7 +3,7 @@ import React from 'react';
 function CartWidget() {
     return (
 
-            <button className="botones">
+            <button id='carrito' className="botones">
                 <i id='carro' className="fa-solid fa-cart-shopping"></i>
             </button>
 

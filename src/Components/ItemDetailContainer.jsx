@@ -25,11 +25,10 @@ const ItemDetailContainer = () => {
         });
         getIsLoading.then(res => setIsLoading(res));
     }, [idItem])
-    console.log(data);
 
     return (
         <>
-            {isLoading === false ? <ItemDetail data={data} /> : <Loading />}
+            {isLoading  ? <Loading /> : <ItemDetail data={data}/>}
         </>
     )
 };

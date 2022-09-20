@@ -14,15 +14,15 @@ function NavBar() {
                    <Link to='/'><img className='img-fluid' src="https://i.postimg.cc/MTrX9TyX/xg-horizontal-black-red-retina.png" alt="xgames" /></Link> 
                     <div className="container-nav">
                     <Dropdown/>
-                    <button className="botones">
+                    <button id='tiendas' className="botones">
                     <a href="#" target="">Tiendas</a>
                     </button>
-                    <button className="botones">
+                    <button id='contacto' className="botones">
                     <a href="#" target="">Contacto</a>
                     </button>
                     <CartWidget/>
-                    <button className="botones">
-                    <a id='user'><i className="fa-solid fa-user"></i></a>
+                    <button id='user' className="botones">
+                    <a ><i className="fa-solid fa-user"></i></a>
                     </button>
                     </div>
                 <Search/>

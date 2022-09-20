@@ -4,7 +4,7 @@ import { Link } from 'react-router-dom';
 function Dropdown() {
     return (
         <>
-            <button className="botones">
+            <button id='drop' className="botones">
                 <li className="nav-item dropdown">
                     <a className="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false"><span className='botones-nav'>JUEGOS</span>
                         <i id='logo' className="fa-solid fa-gamepad"></i>
