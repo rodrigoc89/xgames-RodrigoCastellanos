@@ -1,13 +1,11 @@
 import React from 'react';
 
-function CartWidget() {
+
+export const CartWidget = () => {
     return (
-
-            <button id='carrito' className="botones">
-                <i id='carro' className="fa-solid fa-cart-shopping"></i>
-            </button>
-
-
+        <button id='carrito' className="botones">
+            <i id='carro' className="fa-solid fa-cart-shopping"></i>
+        </button>
     )
 }
 

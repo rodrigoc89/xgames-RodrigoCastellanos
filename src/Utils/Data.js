@@ -7,7 +7,7 @@ const dataFromBD = [
         price: 100,
         stock: 10,
         requirements:'lorem ipsum dolor sit amet, ipsum dolor sit amet, ipsum dolor sit amet, ipsum',
-        category: 'estrategia'
+        category: 'estrategia',
 
     },
     {
@@ -18,7 +18,7 @@ const dataFromBD = [
         price: 100,
         stock: 10,
         requirements: 'lorem ipsum dolor sit amet, ipsum dolor sit amet, ipsum dolor sit amet, ipsum',
-        category: 'estrategia'
+        category: 'estrategia',
 
     },
     {
@@ -29,7 +29,7 @@ const dataFromBD = [
         price: 100,
         stock: 10,
         requirements:'lorem ipsum dolor sit amet, ipsum dolor sit amet, ipsum dolor sit amet, ipsum',
-        category: 'estrategia'
+        category: 'estrategia',
 
     },
     {
@@ -51,7 +51,7 @@ const dataFromBD = [
         price: 100,
         stock: 10,
         requirements:'lorem ipsum dolor sit amet, ipsum dolor sit amet, ipsum dolor sit amet, ipsum',
-        category: 'estrategia'
+        category: 'estrategia',
 
     },
     {
@@ -62,7 +62,7 @@ const dataFromBD = [
         price: 100,
         stock: 10,
         requirements:'lorem ipsum dolor sit amet, ipsum dolor sit amet, ipsum dolor sit amet, ipsum',
-        category: 'estrategia'
+        category: 'estrategia',
 
     },
     {
@@ -73,7 +73,7 @@ const dataFromBD = [
         price: 100,
         stock: 10,
         requirements:'lorem ipsum dolor sit amet, ipsum dolor sit amet, ipsum dolor sit amet, ipsum',
-        category: 'estrategia'
+        category: 'estrategia',
 
     },
     {
@@ -84,7 +84,7 @@ const dataFromBD = [
         price: 100,
         stock: 10,
         requirements:'lorem ipsum dolor sit amet, ipsum dolor sit amet, ipsum dolor sit amet, ipsum',
-        category: 'estrategia'
+        category: 'estrategia',
 
     },
     {
@@ -95,7 +95,7 @@ const dataFromBD = [
         price: 100,
         stock: 10,
         requirements:'lorem ipsum dolor sit amet, ipsum dolor sit amet, ipsum dolor sit amet, ipsum',
-        category: 'estrategia'
+        category: 'estrategia',
 
     },
     {
@@ -106,7 +106,7 @@ const dataFromBD = [
         price: 100,
         stock: 10,
         requirements:'lorem ipsum dolor sit amet, ipsum dolor sit amet, ipsum dolor sit amet, ipsum',
-        category: 'estrategia'
+        category: 'estrategia',
 
     },
     {
@@ -117,7 +117,7 @@ const dataFromBD = [
         price: 100,
         stock: 10,
         requirements:'lorem ipsum dolor sit amet, ipsum dolor sit amet, ipsum dolor sit amet, ipsum',
-        category: 'estrategia'
+        category: 'estrategia',
 
     },
 
@@ -129,7 +129,7 @@ const dataFromBD = [
         price: 100,
         stock: 10,
         requirements:'lorem ipsum dolor sit amet, ipsum dolor sit amet, ipsum dolor sit amet, ipsum',
-        category: 'aventura'
+        category: 'aventura',
     },
     {
         id: 113,

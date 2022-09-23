@@ -1,7 +1,8 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
 
-function Item({ title, price, img, description, id }) {
+const  Item = ({ title, price, img, id }) => {
+
     return (
         <>
         <Link to={`/item/${id}`}>
@@ -13,11 +14,6 @@ function Item({ title, price, img, description, id }) {
                 <div className='card-price'>
                     <p><span className='peso'>$</span> {price} </p>
                 </div>
-
-                {/* <div className='buy'>
-                    <button className="buyButton">Comprar</button>
-                </div>
-                 */}
             </div>
         </Link>
         </>
