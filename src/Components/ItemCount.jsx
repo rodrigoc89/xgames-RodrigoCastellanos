@@ -27,10 +27,9 @@ function ItemCount({stock, initial,onAdd}){
         <button onClick={restar}><i className="fa-solid fa-minus"></i></button>
         <p>{count}</p>
         <button onClick={sumar}><i className="fa-solid fa-plus"></i></button>
-        <button onClick={onAdd}>Comprar</button>
+        <button onClick={() => onAdd(count)}>Comprar</button>
         </div>
         </>
-        
     )
 }
 

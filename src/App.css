@@ -292,7 +292,19 @@ a {
     width: 200px;
     margin-right: 1rem;
 }
-
+.infoCart{
+    color: white;
+    text-align: left;
+}
+.total{
+    color: white;
+    text-align: center;;
+}
+.carroVacio{
+    color: white;
+    text-align: center;
+    
+}
 .load {
     text-align: center;
 
