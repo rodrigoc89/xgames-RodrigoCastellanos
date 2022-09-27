@@ -1,23 +1,31 @@
 import React, { useState, useEffect } from 'react';
-import dataFromBD from '../Utils/Data';
+import { getFirestore, collection, getDocs, query, where } from 'firebase/firestore';
 import ItemList from './ItemList';
 import { useParams } from 'react-router-dom';
 import Loading from './Loading';
 const ItemListContainer = () => {
     const [data, setData] = useState([]);
+
     const { nameCategory } = useParams()
+
     const [isLoading, setIsLoading] = useState(true);
+
     useEffect(() => {
-        const getData = new Promise(resolve => {
-            setTimeout(() => {
-                resolve(dataFromBD);
-            }, 0);
-        });
+
+        const querydb = getFirestore();
+
+        const queryCollection = collection(querydb, 'gamelist')
+
 
         if (nameCategory) {
-            getData.then(res => setData(res.filter(item => item.category === nameCategory)));
+            const queryFilter = query(queryCollection, where('category', '==', nameCategory))
+            getDocs(queryFilter)
+                .then(res => setData(res.docs.map(product => ({ id: product.id, ...product.data() }))))
+
         } else {
-            getData.then((res) => setData(res));
+            getDocs(queryCollection)
+                .then(res => setData(res.docs.map(product => ({ id: product.id, ...product.data() }))))
+
         }
 
         const getIsLoading = new Promise((resolve) => {
@@ -35,9 +43,9 @@ const ItemListContainer = () => {
                 isLoading ? <Loading /> : <div className='container'>
                     <div className='container-fluid'>
                         <ItemList data={data} />
-                        
+
                     </div>
-                </div> 
+                </div>
             }
 
         </>

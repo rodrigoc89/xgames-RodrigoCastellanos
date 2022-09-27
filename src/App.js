@@ -6,6 +6,7 @@ import ItemListContainer from './Components/ItemListContainer';
 import ItemDetailContainer from './Components/ItemDetailContainer';
 import Cart from './Components/Cart';
 import CartProvider from './Components/CartContext';
+import './Utils/FirebaseConfig'
 
 
 const App = () => {
