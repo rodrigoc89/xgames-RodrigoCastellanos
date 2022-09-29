@@ -5,6 +5,7 @@ import NavBar from './Components/NavBar';
 import ItemListContainer from './Components/ItemListContainer';
 import ItemDetailContainer from './Components/ItemDetailContainer';
 import Cart from './Components/Cart';
+import Checkout from './Components/Checkout';
 import CartProvider from './Components/CartContext';
 import './Utils/FirebaseConfig'
 
@@ -20,6 +21,7 @@ const App = () => {
                     <Route path='/category/:nameCategory' element={<ItemListContainer />} />
                     <Route path='/item/:idItem' element={<ItemDetailContainer />} />
                     <Route path='/cart' element={<Cart/>}/>
+                    <Route path='/checkout' element={<Checkout/>}/>
                 </Routes>
         </BrowserRouter>
         </CartProvider>

@@ -41,7 +41,7 @@ const ItemListContainer = () => {
         <>
             {
                 isLoading ? <Loading /> : <div className='container'>
-                    <div className='container-fluid'>
+                    <div className='container-item'>
                         <ItemList data={data} />
 
                     </div>

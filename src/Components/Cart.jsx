@@ -27,6 +27,7 @@ function Cart() {
                 <p>
                     total: {totalPrice()}
                 </p>
+                <Link to='/checkout'><button>Finalizar Compra</button></Link>
             </div>
         </>
     )
