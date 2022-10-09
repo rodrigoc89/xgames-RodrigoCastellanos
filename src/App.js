@@ -7,6 +7,7 @@ import ItemDetailContainer from './Components/ItemDetailContainer';
 import Cart from './Components/Cart';
 import Checkout from './Components/Checkout';
 import CartProvider from './Components/CartContext';
+import Contacto from './Components/Contacto';
 import './Utils/FirebaseConfig'
 
 
@@ -22,6 +23,7 @@ const App = () => {
                     <Route path='/item/:idItem' element={<ItemDetailContainer />} />
                     <Route path='/cart' element={<Cart/>}/>
                     <Route path='/checkout' element={<Checkout/>}/>
+                    <Route path='/contacto' element={<Contacto/>}/>
                 </Routes>
         </BrowserRouter>
         </CartProvider>

@@ -3,6 +3,7 @@ import Search from './Search'
 import Dropdown from './Dropdown';
 import CartWidget from './CartWidget';
 import { Link } from 'react-router-dom';
+import Contacto from './Contacto';
 
 
 
@@ -18,7 +19,7 @@ function NavBar() {
                     <a href="#" target="">Tiendas</a>
                     </button>
                     <button id='contacto' className="botones">
-                    <a href="#" target="">Contacto</a>
+                    <a href="contacto" target="">Contacto</a>
                     </button>
                     <CartWidget/>
                     <button id='user' className="botones">

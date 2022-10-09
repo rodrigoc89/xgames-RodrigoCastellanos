@@ -2,473 +2,691 @@
     {
         "id": 101,
         "title": "Attila Towal War",
-       " img": "https://i.postimg.cc/9fHhskVV/attila.jpg",
-        "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit.Placeat nulla quasi tempore perferendis, debitis alias, excepturi doloribus repellat aut velit ab! Saepe, recusandae vero.Ipsam architecto vitae pariatur a.Quidem.",
+        "img": "https://i.postimg.cc/9fHhskVV/attila.jpg",
+        "description": "En un contexto cada vez más oscuro de hambruna, enfermedad y guerra, un nuevo poder está surgiendo en las grandes estepas del Este. Con un millón de jinetes a sus espaldas, el rey guerrero supremo se acerca y su mirada está puesta en Roma... \n La próxima entrega de la serie de PC ganadora de múltiples premios que combina estrategia por turnos con tácticas en tiempo real,  \n Total War: ATTILA lanza los jugadores se remontan al 395 d.C. Una época de agitación apocalíptica en los albores de la Edad Media.  \n¿Hasta dónde llegarás para sobrevivir? ¿Barrerás la opresión del mundo y crearás tu propio reino bárbaro u oriental? ¿O te enfrentarás a la tormenta que se avecina como los últimos restos del Imperio Romano, en el último desafío de estrategia de supervivencia?  \nEl Azote de Dios se acerca. Tu mundo arderá.",
         "price": 100,
-        "stock": 10,
-        "requirements": "lorem ipsum dolor sit amet, ipsum dolor sit amet, ipsum dolor sit amet, ipsum",
+        "stock": 100,
+        "requirements": [
+            {
+                "minimo": "SO: Windows Vista*\nProcesador:Intel Core 2 Dúo 3 GHz\nMemoria:3 GB de RAM\nGráficos:512 MB NVIDIA GeForce 8800 GT, AMD Radeon HD 2900 XT o Intel HD 4000\nDirectX:Versión 10\nAlmacenamiento:35 GB de espacio disponible\nNotas adicionales:Los conjuntos de chips de gráficos integrados de PC requieren Windows de 64 bits, por ejemplo, la serie Intel HD.",
+                "recomendado": "SO: Windows 7*\nProcesador: 2nd Generation Intel Core i5\nMemoria: 4 GB de RAM\nGráficos: 2 GB NVIDIA\nGeForce GTX 560 Ti or AMD Radeon HD 5870\nDirectX: Versión 11\nAlmacenamiento: 35 GB de espacio disponible\nNotas adicionales: PC integrated graphics chipsets require 64 bit Windows, e.g. Intel HD series."
+            }
+        ],
         "category": "estrategia"
-
     },
     {
         "id": 102,
         "title": "Total War™: ROME II - Emperor Edition",
-       " img": "https://i.postimg.cc/Mp0W20HQ/rome2.jpg",
-        "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit.Placeat nulla quasi tempore perferendis, debitis alias, excepturi doloribus repellat aut velit ab! Saepe, recusandae vero.Ipsam architecto vitae pariatur a.Quidem.",
+        "img": "https://i.postimg.cc/Mp0W20HQ/rome2.jpg",
+        "description": "Emperor Edition es la edición definitiva de ROME II, que presenta un sistema político mejorado, cadenas de construcción revisadas, batallas reequilibradas y efectos visuales mejorados tanto en la campaña como en la batalla .   \nIntegración con Twitch.tv, pantalla táctil y compatibilidad con Mac . \nAdemás, se incluye un paquete de campaña DLC gratuito  \n 'The Imperator Augustus' , que sigue las secuelas de la muerte de César. El paquete de campaña Imperator Augustus y todas las actualizaciones de Emperor Edition son gratuitas, mediante actualización automática, para todos los propietarios existentes de ROME II.",
         "price": 100,
-        "stock": 10,
-        "requirements": "lorem ipsum dolor sit amet, ipsum dolor sit amet, ipsum dolor sit amet, ipsum",
+        "stock": 100,
+        "requirements": [
+            {
+                "minimo": "SO: Windows Vista*\nProcesador:Intel Core 2 Dúo 3 GHz\nMemoria:3 GB de RAM\nGráficos:512 MB NVIDIA GeForce 8800 GT, AMD Radeon HD 2900 XT o Intel HD 4000\nDirectX:Versión 10\nAlmacenamiento:35 GB de espacio disponible\nNotas adicionales:Los conjuntos de chips de gráficos integrados de PC requieren Windows de 64 bits, por ejemplo, la serie Intel HD.",
+                "recomendado": "SO: Windows 7*\nProcesador: 2nd Generation Intel Core i5\nMemoria: 4 GB de RAM\nGráficos: 2 GB NVIDIA\nGeForce GTX 560 Ti or AMD Radeon HD 5870\nDirectX: Versión 11\nAlmacenamiento: 35 GB de espacio disponible\nNotas adicionales: PC integrated graphics chipsets require 64 bit Windows, e.g. Intel HD series."
+            }
+        ],
         "category": "estrategia"
-
     },
     {
         "id": 103,
         "title": "Total War: ROME REMASTERED",
-       " img": "https://i.postimg.cc/15qmM1ZM/rome-Remastered.jpg",
-        "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit.Placeat nulla quasi tempore perferendis, debitis alias, excepturi doloribus repellat aut velit ab! Saepe, recusandae vero.Ipsam architecto vitae pariatur a.Quidem.",
+        "img": "https://i.postimg.cc/15qmM1ZM/rome-Remastered.jpg",
+        "description": "Imágenes mejoradas\nROME REMASTERED actualiza las imágenes clásicas de Roma, con optimización 4K**, compatibilidad con pantalla ultraancha y resolución UHD nativa**. Esta actualización visual se extiende a través de una multitud de funciones, incluidos edificios y objetos remodelados, y efectos ambientales como nubes de polvo y neblina de calor. Los mapas de campaña actualizados también cuentan con nuevos modelos de alta resolución, y las unidades se han remodelado y retexturizado para que se vean lo mejor posible en el campo de batalla.\nCaracterísticas modernas\nROME REMASTERED incluye una gran cantidad de características modernas y mejoras a la mecánica existente. La cámara del juego se ha mejorado, incluida la rotación del mapa y un nivel de zoom más amplio en el modo Campaña. Se han agregado mapas de calor y nuevas superposiciones de íconos para mecánicas de juego como la diplomacia y la seguridad. En Battle, el nuevo mapa táctico, las pantallas de unidades y los marcadores de rango te dan un mayor control sobre los campos de batalla de Roma\n.Mecánica de juego mejorada\nLos jugadores ahora pueden expandir sus ejércitos y experimentar 16 facciones adicionales que antes estaban bloqueadas, dando un total de 38 facciones jugables. Por primera vez en Total War, ahora puedes llevar a tu facción favorita a luchar contra amigos en el modo multijugador multiplataforma entre Windows, macOS y Linux. También se ha agregado a la refriega un tipo de agente completamente nuevo; Se pueden enviar comerciantes por todo el mundo para crear vínculos comerciales, acceder a recursos y comprar rivales para aumentar sus ingresos y afirmar el poder económico de su facción.",
         "price": 100,
-        "stock": 10,
-        "requirements": "lorem ipsum dolor sit amet, ipsum dolor sit amet, ipsum dolor sit amet, ipsum",
+        "stock": 100,
+        "requirements": [
+            {
+                "minimo": "SO: Windows Vista*\nProcesador:Intel Core 2 Dúo 3 GHz\nMemoria:3 GB de RAM\nGráficos:512 MB NVIDIA GeForce 8800 GT, AMD Radeon HD 2900 XT o Intel HD 4000\nDirectX:Versión 10\nAlmacenamiento:35 GB de espacio disponible\nNotas adicionales:Los conjuntos de chips de gráficos integrados de PC requieren Windows de 64 bits, por ejemplo, la serie Intel HD.",
+                "recomendado": "SO: Windows 7*\nProcesador: 2nd Generation Intel Core i5\nMemoria: 4 GB de RAM\nGráficos: 2 GB NVIDIA\nGeForce GTX 560 Ti or AMD Radeon HD 5870\nDirectX: Versión 11\nAlmacenamiento: 35 GB de espacio disponible\nNotas adicionales: PC integrated graphics chipsets require 64 bit Windows, e.g. Intel HD series."
+            }
+        ],
         "category": "estrategia"
-
     },
     {
         "id": 104,
         "title": "Total War: WARHAMMER",
-       " img": "https://i.postimg.cc/bvTNb0jh/warhamer.jpg",
-        "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit.Placeat nulla quasi tempore perferendis, debitis alias, excepturi doloribus repellat aut velit ab! Saepe, recusandae vero.Ipsam architecto vitae pariatur a.Quidem.",
+        "img": "https://i.postimg.cc/bvTNb0jh/warhamer.jpg",
+        "description": "El Viejo Mundo se hace eco del clamor de la batalla incesante. ¡La única constante es la GUERRA!\nUn juego de estrategia de fantasía de proporciones legendarias, \nTotal War: WARHAMMER combina una adictiva campaña por turnos de épica construcción de imperios con explosivas, colosales batallas en tiempo real. \nTodo ambientado en el vívido e increíble mundo de Warhammer Fantasy Battles.\nDirige cinco razas completamente diferentes: Bretonia, el Imperio, los Enanos, los Condes Vampiro y los Pieles Verdes, cada uno con sus propios personajes, unidades de campo de batalla y estilo de juego únicos.\nDirige tus fuerzas a la guerra con los poderosos señores legendarios del mundo de Warhammer Fantasy Battles, armándolos con armas legendarias, armaduras y magia de batalla mortal; ganado con esfuerzo en cadenas de misiones individuales.\nPor primera vez en un juego de Total War, aprovecha tormentas de poder mágico para ayudarte en la batalla y sube a los cielos con criaturas voladoras, desde feroces dragones y wyverns hasta gigantescos grifos.",
         "price": 100,
-        "stock": 10,
-        "requirements": "lorem ipsum dolor sit amet, ipsum dolor sit amet, ipsum dolor sit amet, ipsum",
+        "stock": 100,
+        "requirements": [
+            {
+                "minimo": "SO: Windows Vista*\nProcesador:Intel Core 2 Dúo 3 GHz\nMemoria:3 GB de RAM\nGráficos:512 MB NVIDIA GeForce 8800 GT, AMD Radeon HD 2900 XT o Intel HD 4000\nDirectX:Versión 10\nAlmacenamiento:35 GB de espacio disponible\nNotas adicionales:Los conjuntos de chips de gráficos integrados de PC requieren Windows de 64 bits, por ejemplo, la serie Intel HD.",
+                "recomendado": "SO: Windows 7*\nProcesador: 2nd Generation Intel Core i5\nMemoria: 4 GB de RAM\nGráficos: 2 GB NVIDIA\nGeForce GTX 560 Ti or AMD Radeon HD 5870\nDirectX: Versión 11\nAlmacenamiento: 35 GB de espacio disponible\nNotas adicionales: PC integrated graphics chipsets require 64 bit Windows, e.g. Intel HD series."
+            }
+        ],
         "category": "estrategia"
-
     },
     {
         "id": 105,
         "title": "Total War: WARHAMMER II",
-       " img": "https://i.postimg.cc/jSYsF3xT/warhamer2.jpg",
-        "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit.Placeat nulla quasi tempore perferendis, debitis alias, excepturi doloribus repellat aut velit ab! Saepe, recusandae vero.Ipsam architecto vitae pariatur a.Quidem.",
+        "img": "https://i.postimg.cc/jSYsF3xT/warhamer2.jpg",
+        "description": "Total War: WARHAMMER II es un juego de estrategia de proporciones titánicas. Elige entre cuatro facciones únicas y variadas y haz la guerra a tu manera: organiza una campaña de conquista para salvar o destruir un mundo de fantasía vasto y vívido.\nEste es un juego de dos mitades: una campaña de mundo abierto por turnos y la otra intensas batallas tácticas en tiempo real en los fantásticos paisajes del Nuevo Mundo.\nJuega como quieras: sumérgete en una campaña apasionante, experimenta una rejugabilidad ilimitada y desafía al mundo en el modo multijugador con un ejército personalizado de tus unidades favoritas. Total War: WARHAMMER II ofrece cientos de horas de juego y no hay dos juegos iguales.",
         "price": 100,
-        "stock": 10,
-        "requirements": "lorem ipsum dolor sit amet, ipsum dolor sit amet, ipsum dolor sit amet, ipsum",
+        "stock": 100,
+        "requirements": [
+            {
+                "minimo": "SO: Windows Vista*\nProcesador:Intel Core 2 Dúo 3 GHz\nMemoria:3 GB de RAM\nGráficos:512 MB NVIDIA GeForce 8800 GT, AMD Radeon HD 2900 XT o Intel HD 4000\nDirectX:Versión 10\nAlmacenamiento:35 GB de espacio disponible\nNotas adicionales:Los conjuntos de chips de gráficos integrados de PC requieren Windows de 64 bits, por ejemplo, la serie Intel HD.",
+                "recomendado": "SO: Windows 7*\nProcesador: 2nd Generation Intel Core i5\nMemoria: 4 GB de RAM\nGráficos: 2 GB NVIDIA\nGeForce GTX 560 Ti or AMD Radeon HD 5870\nDirectX: Versión 11\nAlmacenamiento: 60 GB de espacio disponible\nNotas adicionales: PC integrated graphics chipsets require 64 bit Windows, e.g. Intel HD series."
+            }
+        ],
         "category": "estrategia"
-
     },
     {
         "id": 106,
         "title": "Total War: WARHAMMER III",
-       " img": "https://i.postimg.cc/NMjGxygr/warhamer3.jpg",
-        "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit.Placeat nulla quasi tempore perferendis, debitis alias, excepturi doloribus repellat aut velit ab! Saepe, recusandae vero.Ipsam architecto vitae pariatur a.Quidem.",
+        "img": "https://i.postimg.cc/NMjGxygr/warhamer3.jpg",
+        "description": "El último rugido de un dios moribundo rompe la frontera entre los mundos y abre un portal al Reino del Caos. De este torbellino emergen los cuatro Poderes Ruinosos: Khorne, Nurgle, Tzeentch y Slaanesh, que propagan la oscuridad y la desesperación.\nLos severos guerreros de Kislev y el vasto imperio de Grand Cathay se encuentran en el umbral, mientras un vengativo Príncipe Demonio jura destruir a quienes lo corrompieron. El conflicto que se avecina engullirá a todos. ¿Conquistarás a tus demonios? ¿O mandarlos?",
         "price": 100,
-        "stock": 10,
-        "requirements": "lorem ipsum dolor sit amet, ipsum dolor sit amet, ipsum dolor sit amet, ipsum",
+        "stock": 100,
+        "requirements": [
+            {
+                "minimo": "SO: Windows Vista*\nProcesador:Intel Core 2 Dúo 3 GHz\nMemoria:3 GB de RAM\nGráficos:512 MB NVIDIA GeForce 8800 GT, AMD Radeon HD 2900 XT o Intel HD 4000\nDirectX:Versión 10\nAlmacenamiento:35 GB de espacio disponible\nNotas adicionales:Los conjuntos de chips de gráficos integrados de PC requieren Windows de 64 bits, por ejemplo, la serie Intel HD.",
+                "recomendado": "SO: Windows 7*\nProcesador: 2nd Generation Intel Core i5\nMemoria: 4 GB de RAM\nGráficos: 2 GB NVIDIA\nGeForce GTX 560 Ti or AMD Radeon HD 5870\nDirectX: Versión 11\nAlmacenamiento: 120 GB de espacio disponible\nNotas adicionales: PC integrated graphics chipsets require 64 bit Windows, e.g. Intel HD series."
+            }
+        ],
         "category": "estrategia"
-
     },
     {
         "id": 107,
         "title": "Total War: THREE KINGDOMS",
-       " img": "https://i.postimg.cc/LXQ9QHXQ/three-Kings.jpg",
-        "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit.Placeat nulla quasi tempore perferendis, debitis alias, excepturi doloribus repellat aut velit ab! Saepe, recusandae vero.Ipsam architecto vitae pariatur a.Quidem.",
+        "img": "https://i.postimg.cc/LXQ9QHXQ/three-Kings.jpg",
+        "description": "Total War: THREE KINGDOMS es el primero de la serie de estrategia ganadora de múltiples premios que recrea un conflicto épico en la antigua China. Total War: THREE KINGDOMS, que combina un apasionante juego de campaña por turnos de construcción de imperios, gobierno y conquista con impresionantes batallas en tiempo real, redefine la serie en una era de héroes y leyendas.\nChina en 190CE\nBienvenido a una nueva era de conquista legendaria.\nEsta hermosa pero fracturada tierra pide un nuevo emperador y una nueva forma de vida. Une a China bajo tu gobierno, forja la próxima gran dinastía y construye un legado que perdurará a lo largo de los siglos.\nElige entre un elenco de 12 señores de la guerra legendarios y conquista el reino. Recluta personajes heroicos para ayudar a tu causa y domina a tus enemigos en los frentes militar, tecnológico, político y económico.\n¿Construirás amistades poderosas, formarás alianzas fraternales y ganarás el respeto de tus muchos enemigos? ¿O preferirías cometer actos de traición, infligir traiciones desgarradoras y convertirte en un maestro de la gran intriga política?\nTu leyenda aún no se ha escrito, pero una cosa es cierta: te espera una conquista gloriosa.",
         "price": 100,
-        "stock": 10,
-        "requirements": "lorem ipsum dolor sit amet, ipsum dolor sit amet, ipsum dolor sit amet, ipsum",
+        "stock": 100,
+        "requirements": [
+            {
+                "minimo": "SO: Windows Vista*\nProcesador:Intel Core 2 Dúo 3 GHz\nMemoria:3 GB de RAM\nGráficos:512 MB NVIDIA GeForce 8800 GT, AMD Radeon HD 2900 XT o Intel HD 4000\nDirectX:Versión 10\nAlmacenamiento:35 GB de espacio disponible\nNotas adicionales:Los conjuntos de chips de gráficos integrados de PC requieren Windows de 64 bits, por ejemplo, la serie Intel HD.",
+                "recomendado": "SO: Windows 7*\nProcesador: 2nd Generation Intel Core i5\nMemoria: 4 GB de RAM\nGráficos: 2 GB NVIDIA\nGeForce GTX 560 Ti or AMD Radeon HD 5870\nDirectX: Versión 11\nAlmacenamiento: 60 GB de espacio disponible\nNotas adicionales: PC integrated graphics chipsets require 64 bit Windows, e.g. Intel HD series."
+            }
+        ],
         "category": "estrategia"
-
     },
     {
         "id": 108,
         "title": "Total War: SHOGUN 2",
-       " img": "https://i.postimg.cc/mkcb001L/shogun2.jpg",
-        "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit.Placeat nulla quasi tempore perferendis, debitis alias, excepturi doloribus repellat aut velit ab! Saepe, recusandae vero.Ipsam architecto vitae pariatur a.Quidem.",
+        "img": "https://i.postimg.cc/mkcb001L/shogun2.jpg",
+        "description": "DOMINA EL ARTE DE LA GUERRA\nEn la era más oscura de Japón, una guerra sin fin deja a un país dividido. Estamos a mediados del siglo XVI en el Japón feudal. El país, una vez gobernado por un gobierno unificado, ahora está dividido en muchos clanes en guerra. Diez señores de la guerra legendarios luchan por la supremacía mientras conspiraciones y conflictos marchitan el imperio. Solo uno se alzará sobre todos para ganarse el corazón de una nación como el nuevo shogun... Los demás morirán por su espada.\nAsuma el papel de un Daimyo, el líder del clan, y use los compromisos militares, la economía y la diplomacia para lograr el objetivo final: reunir a Japón bajo su mando supremo y convertirse en el nuevo Shogun, el gobernante indiscutible de una nación pacificada.",
         "price": 100,
-        "stock": 10,
-        "requirements": "lorem ipsum dolor sit amet, ipsum dolor sit amet, ipsum dolor sit amet, ipsum",
+        "stock": 100,
+        "requirements": [
+            {
+                "minimo": "SO: Windows Vista*\nProcesador:Intel Core 2 Dúo 3 GHz\nMemoria:3 GB de RAM\nGráficos:512 MB NVIDIA GeForce 8800 GT, AMD Radeon HD 2900 XT o Intel HD 4000\nDirectX:Versión 10\nAlmacenamiento:35 GB de espacio disponible\nNotas adicionales:Los conjuntos de chips de gráficos integrados de PC requieren Windows de 64 bits, por ejemplo, la serie Intel HD.",
+                "recomendado": "SO: Windows 7*\nProcesador: 2nd Generation Intel Core i5\nMemoria: 4 GB de RAM\nGráficos: 2 GB NVIDIA\nGeForce GTX 560 Ti or AMD Radeon HD 5870\nDirectX: Versión 11\nAlmacenamiento: 35 GB de espacio disponible\nNotas adicionales: PC integrated graphics chipsets require 64 bit Windows, e.g. Intel HD series."
+            }
+        ],
         "category": "estrategia"
     },
     {
         "id": 109,
         "title": "A Total War Saga: TROY",
-       " img": "https://i.postimg.cc/44M4zNjm/troy.jpg",
-        "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit.Placeat nulla quasi tempore perferendis, debitis alias, excepturi doloribus repellat aut velit ab! Saepe, recusandae vero.Ipsam architecto vitae pariatur a.Quidem.",
+        "img": "https://i.postimg.cc/44M4zNjm/troy.jpg",
+        "description": "En esta era legendaria, los héroes caminan por la tierra. En un acto que conmociona al mundo, el audaz Paris, príncipe de Troya, se fuga con la bella reina de Esparta. Mientras navegan, el rey Menelao maldice su nombre. Jura traer a su esposa a casa, cueste lo que cueste.\nLucha para salvar o conquistar el reino de Troya como uno de los ocho héroes icónicos, incluido el infame guerrero Aquiles, el noble protector Héctor, el rebelde príncipe Paris y el vengativo rey Menelao.",
         "price": 100,
-        "stock": 10,
-        "requirements": "lorem ipsum dolor sit amet, ipsum dolor sit amet, ipsum dolor sit amet, ipsum",
+        "stock": 100,
+        "requirements": [
+            {
+                "minimo": "SO: Windows Vista*\nProcesador:Intel Core 2 Dúo 3 GHz\nMemoria:3 GB de RAM\nGráficos:512 MB NVIDIA GeForce 8800 GT, AMD Radeon HD 2900 XT o Intel HD 4000\nDirectX:Versión 10\nAlmacenamiento:35 GB de espacio disponible\nNotas adicionales:Los conjuntos de chips de gráficos integrados de PC requieren Windows de 64 bits, por ejemplo, la serie Intel HD.",
+                "recomendado": "SO: Windows 7*\nProcesador: 2nd Generation Intel Core i5\nMemoria: 4 GB de RAM\nGráficos: 2 GB NVIDIA\nGeForce GTX 560 Ti or AMD Radeon HD 5870\nDirectX: Versión 11\nAlmacenamiento: 35 GB de espacio disponible\nNotas adicionales: PC integrated graphics chipsets require 64 bit Windows, e.g. Intel HD series."
+            }
+        ],
         "category": "estrategia"
-
     },
     {
         "id": 110,
         "title": "Total War: NAPOLEON – Definitive Edition",
-       " img": "https://i.postimg.cc/NFWgYpR1/napoleon.jpg",
-        "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit.Placeat nulla quasi tempore perferendis, debitis alias, excepturi doloribus repellat aut velit ab! Saepe, recusandae vero.Ipsam architecto vitae pariatur a.Quidem.",
+        "img": "https://i.postimg.cc/NFWgYpR1/napoleon.jpg",
+        "description": "Enfréntate a la campaña peninsular, basada en el intenso conflicto que asoló la península española entre 1811 y 1814. Elige una de las tres naciones en guerra (Francia, Gran Bretaña o España) y lidera tu campaña en un mapa independiente que presenta 32 nuevas regiones controlables.",
         "price": 100,
-        "stock": 10,
-        "requirements": "lorem ipsum dolor sit amet, ipsum dolor sit amet, ipsum dolor sit amet, ipsum",
+        "stock": 100,
+        "requirements": [
+            {
+                "minimo": "SO: Windows Vista*\nProcesador:Intel Core 2 Dúo 3 GHz\nMemoria:3 GB de RAM\nGráficos:512 MB NVIDIA GeForce 8800 GT, AMD Radeon HD 2900 XT o Intel HD 4000\nDirectX:Versión 10\nAlmacenamiento:35 GB de espacio disponible\nNotas adicionales:Los conjuntos de chips de gráficos integrados de PC requieren Windows de 64 bits, por ejemplo, la serie Intel HD.",
+                "recomendado": "SO: Windows 7*\nProcesador: 2nd Generation Intel Core i5\nMemoria: 4 GB de RAM\nGráficos: 2 GB NVIDIA\nGeForce GTX 560 Ti or AMD Radeon HD 5870\nDirectX: Versión 11\nAlmacenamiento: 35 GB de espacio disponible\nNotas adicionales: PC integrated graphics chipsets require 64 bit Windows, e.g. Intel HD series."
+            }
+        ],
         "category": "estrategia"
-
     },
     {
         "id": 111,
         "title": "Total War: EMPIRE – Definitive Edition",
-       " img": "https://i.postimg.cc/6pCQ6JjT/empire.jpg",
-        "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit.Placeat nulla quasi tempore perferendis, debitis alias, excepturi doloribus repellat aut velit ab! Saepe, recusandae vero.Ipsam architecto vitae pariatur a.Quidem.",
+        "img": "https://i.postimg.cc/6pCQ6JjT/empire.jpg",
+        "description": "Enfréntate a la Campaña Warpath y lidera una de las 5 nuevas facciones de nativos americanos en una guerra épica para defender tus tierras y expulsar a los invasores.",
         "price": 100,
-        "stock": 10,
-        "requirements": "lorem ipsum dolor sit amet, ipsum dolor sit amet, ipsum dolor sit amet, ipsum",
+        "stock": 100,
+        "requirements": [
+            {
+                "minimo": "SO: Windows Vista*\nProcesador:Intel Core 2 Dúo 3 GHz\nMemoria:3 GB de RAM\nGráficos:512 MB NVIDIA GeForce 8800 GT, AMD Radeon HD 2900 XT o Intel HD 4000\nDirectX:Versión 10\nAlmacenamiento:35 GB de espacio disponible\nNotas adicionales:Los conjuntos de chips de gráficos integrados de PC requieren Windows de 64 bits, por ejemplo, la serie Intel HD.",
+                "recomendado": "SO: Windows 7*\nProcesador: 2nd Generation Intel Core i5\nMemoria: 4 GB de RAM\nGráficos: 2 GB NVIDIA\nGeForce GTX 560 Ti or AMD Radeon HD 5870\nDirectX: Versión 11\nAlmacenamiento: 35 GB de espacio disponible\nNotas adicionales: PC integrated graphics chipsets require 64 bit Windows, e.g. Intel HD series."
+            }
+        ],
         "category": "estrategia"
-
     },
-
     {
         "id": 112,
         "title": "Sea Thieves",
-       " img": "https://i.postimg.cc/SRkVLwWq/seathieves.jpg",
-        "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit.Placeat nulla quasi tempore perferendis, debitis alias, excepturi doloribus repellat aut velit ab! Saepe, recusandae vero.Ipsam architecto vitae pariatur a.Quidem.",
+        "img": "https://i.postimg.cc/SRkVLwWq/seathieves.jpg",
+        "description": "Sea of Thieves es la experiencia de piratasesencial, desde la navegación y elcombate hasta la exploración y elsaqueo: todo lo necesario para una vidapirata y convertirteen una leyenda. No hay funcionesestablecidas y cuentas con una completalibertad para enfrentarte al mundo y a los demásjugadorescomodesees.\nYa sea que estésnavegandoengrupo o ensolitario, seguroteencontrarás con otrastripulacionesenestaaventura de mundocompartida, pero ¿serán amigos o enemigos? ¿Cómoresponderás?",
         "price": 100,
-        "stock": 10,
-        "requirements": "lorem ipsum dolor sit amet, ipsum dolor sit amet, ipsum dolor sit amet, ipsum",
+        "stock": 100,
+        "requirements": [
+            {
+                "minimo": "SO: Windows Vista*\nProcesador:Intel Core 2 Dúo 3 GHz\nMemoria:3 GB de RAM\nGráficos:512 MB NVIDIA GeForce 8800 GT, AMD Radeon HD 2900 XT o Intel HD 4000\nDirectX:Versión 10\nAlmacenamiento:35 GB de espacio disponible\nNotas adicionales:Los conjuntos de chips de gráficos integrados de PC requieren Windows de 64 bits, por ejemplo, la serie Intel HD.",
+                "recomendado": "SO: Windows 7*\nProcesador: 2nd Generation Intel Core i5\nMemoria: 4 GB de RAM\nGráficos: 2 GB NVIDIA\nGeForce GTX 560 Ti or AMD Radeon HD 5870\nDirectX: Versión 11\nAlmacenamiento: 35 GB de espacio disponible\nNotas adicionales: PC integrated graphics chipsets require 64 bit Windows, e.g. Intel HD series."
+            }
+        ],
         "category": "aventura"
     },
     {
         "id": 113,
         "title": "Grand Theft Auto V",
-       " img": "https://i.postimg.cc/prvt3Tc7/gtav.jpg",
-        "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit.Placeat nulla quasi tempore perferendis, debitis alias, excepturi doloribus repellat aut velit ab! Saepe, recusandae vero.Ipsam architecto vitae pariatur a.Quidem.",
+        "img": "https://i.postimg.cc/prvt3Tc7/gtav.jpg",
+        "description": "Cuando un joven estafador callejero, un ladrón de bancos retirado y un psicópata aterrador se ven involucrados con lo peor y más desquiciado del mundo criminal, del gobierno de los EE. UU. y de la industria del espectáculo, tendrán que llevar a cabo una serie de peligrosos golpes para sobrevivir en una ciudad implacable en la que no pueden confiar en nadie. Y mucho menos los unos en los otros.",
         "price": 100,
-        "stock": 10,
-        "requirements": "lorem ipsum dolor sit amet, ipsum dolor sit amet, ipsum dolor sit amet, ipsum",
+        "stock": 100,
+        "requirements": [
+            {
+                "minimo": "SO: Windows Vista*\nProcesador:Intel Core 2 Dúo 3 GHz\nMemoria:3 GB de RAM\nGráficos:512 MB NVIDIA GeForce 8800 GT, AMD Radeon HD 2900 XT o Intel HD 4000\nDirectX:Versión 10\nAlmacenamiento:35 GB de espacio disponible\nNotas adicionales:Los conjuntos de chips de gráficos integrados de PC requieren Windows de 64 bits, por ejemplo, la serie Intel HD.",
+                "recomendado": "SO: Windows 7*\nProcesador: 2nd Generation Intel Core i5\nMemoria: 4 GB de RAM\nGráficos: 2 GB NVIDIA\nGeForce GTX 560 Ti or AMD Radeon HD 5870\nDirectX: Versión 11\nAlmacenamiento: 35 GB de espacio disponible\nNotas adicionales: PC integrated graphics chipsets require 64 bit Windows, e.g. Intel HD series."
+            }
+        ],
         "category": "accion"
     },
     {
         "id": 114,
         "title": "Cyberpunk 2077",
-       " img": "https://i.postimg.cc/PxYj6ZyY/cyberpunk.jpg",
-        "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit.Placeat nulla quasi tempore perferendis, debitis alias, excepturi doloribus repellat aut velit ab! Saepe, recusandae vero.Ipsam architecto vitae pariatur a.Quidem.",
+        "img": "https://i.postimg.cc/PxYj6ZyY/cyberpunk.jpg",
+        "description": "Cyberpunk 2077 es un RPG de aventura y acción de mundo abierto ambientado en la megalópolis de Night City, donde te pondrás en la piel de un mercenario o una mercenaria ciberpunk y vivirás su lucha a vida o muerte por la supervivencia. Mejorado y con contenido nuevo adicional gratuito. Personaliza tu personaje y tu estilo de juego a medida que aceptas trabajos, te labras una reputación y desbloqueas mejoras. Las relaciones que forjes y las decisiones que tomes darán forma al mundo que te rodea. Aquí nacen las leyendas. ¿Cuál será la tuya?",
         "price": 100,
-        "stock": 10,
-        "requirements": "lorem ipsum dolor sit amet, ipsum dolor sit amet, ipsum dolor sit amet, ipsum",
+        "stock": 100,
+        "requirements": [
+            {
+                "minimo": "SO: Windows Vista*\nProcesador:Intel Core 2 Dúo 3 GHz\nMemoria:3 GB de RAM\nGráficos:512 MB NVIDIA GeForce 8800 GT, AMD Radeon HD 2900 XT o Intel HD 4000\nDirectX:Versión 10\nAlmacenamiento:35 GB de espacio disponible\nNotas adicionales:Los conjuntos de chips de gráficos integrados de PC requieren Windows de 64 bits, por ejemplo, la serie Intel HD.",
+                "recomendado": "SO: Windows 7*\nProcesador: 2nd Generation Intel Core i5\nMemoria: 4 GB de RAM\nGráficos: 2 GB NVIDIA\nGeForce GTX 560 Ti or AMD Radeon HD 5870\nDirectX: Versión 11\nAlmacenamiento: 35 GB de espacio disponible\nNotas adicionales: PC integrated graphics chipsets require 64 bit Windows, e.g. Intel HD series."
+            }
+        ],
         "category": "aventura"
     },
     {
         "id": 115,
         "title": "Chivalry 2",
-       " img": "https://i.postimg.cc/VN3wB4qz/chivalry.jpg",
-        "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit.Placeat nulla quasi tempore perferendis, debitis alias, excepturi doloribus repellat aut velit ab! Saepe, recusandae vero.Ipsam architecto vitae pariatur a.Quidem.",
+        "img": "https://i.postimg.cc/VN3wB4qz/chivalry.jpg",
+        "description": "Chivalry 2 es un juego multijugador en primera persona, inspirado en las batallas épicas de las películas medievales. Los jugadores se sumergirán en la acción de todos los momentos emblemáticos de la época, el choque de espadas, las tormentas de flechas incendiarias, los asedios a los castillos y mucho más.",
         "price": 100,
-        "stock": 10,
-        "requirements": "lorem ipsum dolor sit amet, ipsum dolor sit amet, ipsum dolor sit amet, ipsum",
+        "stock": 100,
+        "requirements": [
+            {
+                "minimo": "SO: Windows Vista*\nProcesador:Intel Core 2 Dúo 3 GHz\nMemoria:3 GB de RAM\nGráficos:512 MB NVIDIA GeForce 8800 GT, AMD Radeon HD 2900 XT o Intel HD 4000\nDirectX:Versión 10\nAlmacenamiento:35 GB de espacio disponible\nNotas adicionales:Los conjuntos de chips de gráficos integrados de PC requieren Windows de 64 bits, por ejemplo, la serie Intel HD.",
+                "recomendado": "SO: Windows 7*\nProcesador: 2nd Generation Intel Core i5\nMemoria: 4 GB de RAM\nGráficos: 2 GB NVIDIA\nGeForce GTX 560 Ti or AMD Radeon HD 5870\nDirectX: Versión 11\nAlmacenamiento: 35 GB de espacio disponible\nNotas adicionales: PC integrated graphics chipsets require 64 bit Windows, e.g. Intel HD series."
+            }
+        ],
         "category": "accion"
     },
     {
         "id": 116,
         "title": "ACE COMBAT™ 7: SKIES UNKNOWN",
-       " img": "https://i.postimg.cc/R039H2nP/acecombat.jpg",
-        "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit.Placeat nulla quasi tempore perferendis, debitis alias, excepturi doloribus repellat aut velit ab! Saepe, recusandae vero.Ipsam architecto vitae pariatur a.Quidem.",
+        "img": "https://i.postimg.cc/R039H2nP/acecombat.jpg",
+        "description": "¡Conviértete en un as de la aviación y vuela por cielos fotorrealistas con 360 grados de movimiento, acaba con los aviones enemigos y disfruta de la emoción de los despegues realistas! ¡Los combates aéreos nunca han sido mejores!\n¡El proyecto Aces pretende revolucionar los cielos con esta adición a la serie, que ofrece una experiencia tan inmersiva que parecerá que piloteas un avión real! El tiempo y el entorno afectan al avión y a la interfaz, añadiendo un realismo extremo nunca visto en un juego de combates aéreos. ¡Te esperan combates épicos!",
         "price": 100,
-        "stock": 10,
-        "requirements": "lorem ipsum dolor sit amet, ipsum dolor sit amet, ipsum dolor sit amet, ipsum",
+        "stock": 100,
+        "requirements": [
+            {
+                "minimo": "SO: Windows Vista*\nProcesador:Intel Core 2 Dúo 3 GHz\nMemoria:3 GB de RAM\nGráficos:512 MB NVIDIA GeForce 8800 GT, AMD Radeon HD 2900 XT o Intel HD 4000\nDirectX:Versión 10\nAlmacenamiento:35 GB de espacio disponible\nNotas adicionales:Los conjuntos de chips de gráficos integrados de PC requieren Windows de 64 bits, por ejemplo, la serie Intel HD.",
+                "recomendado": "SO: Windows 7*\nProcesador: 2nd Generation Intel Core i5\nMemoria: 4 GB de RAM\nGráficos: 2 GB NVIDIA\nGeForce GTX 560 Ti or AMD Radeon HD 5870\nDirectX: Versión 11\nAlmacenamiento: 35 GB de espacio disponible\nNotas adicionales: PC integrated graphics chipsets require 64 bit Windows, e.g. Intel HD series."
+            }
+        ],
         "category": "accion"
     },
     {
         "id": 117,
         "title": "Call of Duty®: Modern Warfare® II",
-       " img": "https://i.postimg.cc/8zzT17kg/call-Of-Duty-MIIW.jpg",
-        "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit.Placeat nulla quasi tempore perferendis, debitis alias, excepturi doloribus repellat aut velit ab! Saepe, recusandae vero.Ipsam architecto vitae pariatur a.Quidem.",
+        "img": "https://i.postimg.cc/8zzT17kg/call-Of-Duty-MIIW.jpg",
+        "description": "Call of Duty®: Modern Warfare® II sumerge a los jugadores en un conflicto mundial sin precedentes que presenta el regreso de los icónicos Operadores de la Fuerza Operativa 141. Desde operaciones tácticas de infiltración a pequeña escala hasta misiones ultra secretas, los jugadores emprenderán con sus amigos una aventura inmersiva.",
         "price": 100,
-        "stock": 10,
-        "requirements": "lorem ipsum dolor sit amet, ipsum dolor sit amet, ipsum dolor sit amet, ipsum",
+        "stock": 100,
+        "requirements": [
+            {
+                "minimo": "SO: Windows Vista*\nProcesador:Intel Core 2 Dúo 3 GHz\nMemoria:3 GB de RAM\nGráficos:512 MB NVIDIA GeForce 8800 GT, AMD Radeon HD 2900 XT o Intel HD 4000\nDirectX:Versión 10\nAlmacenamiento:35 GB de espacio disponible\nNotas adicionales:Los conjuntos de chips de gráficos integrados de PC requieren Windows de 64 bits, por ejemplo, la serie Intel HD.",
+                "recomendado": "SO: Windows 7*\nProcesador: 2nd Generation Intel Core i5\nMemoria: 4 GB de RAM\nGráficos: 2 GB NVIDIA\nGeForce GTX 560 Ti or AMD Radeon HD 5870\nDirectX: Versión 11\nAlmacenamiento: 35 GB de espacio disponible\nNotas adicionales: PC integrated graphics chipsets require 64 bit Windows, e.g. Intel HD series."
+            }
+        ],
         "category": "accion"
     },
     {
         "id": 118,
         "title": "Marvel’s Spider-Man Remastered",
-       " img": "https://i.postimg.cc/SNryF6hG/Spiderman.jpg",
-        "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit.Placeat nulla quasi tempore perferendis, debitis alias, excepturi doloribus repellat aut velit ab! Saepe, recusandae vero.Ipsam architecto vitae pariatur a.Quidem.",
+        "img": "https://i.postimg.cc/SNryF6hG/Spiderman.jpg",
+        "description": "Desarrollado por Insomniac Games en conjunto con Marvel y optimizado para PC por Nixxes Software, Marvel's Spider-Man Remasterizado nos trae a un Peter Parker más experimentado que lucha contra organizaciones criminales y villanos emblemáticos en la ciudad de Nueva York de Marvel. Nuestro protagonista se esfuerza por balancear su caótica vida personal y su carrera, mientras el destino de Nueva York descansa sobre sus hombros.",
         "price": 100,
-        "stock": 10,
-        "requirements": "lorem ipsum dolor sit amet, ipsum dolor sit amet, ipsum dolor sit amet, ipsum",
+        "stock": 100,
+        "requirements": [
+            {
+                "minimo": "SO: Windows Vista*\nProcesador:Intel Core 2 Dúo 3 GHz\nMemoria:3 GB de RAM\nGráficos:512 MB NVIDIA GeForce 8800 GT, AMD Radeon HD 2900 XT o Intel HD 4000\nDirectX:Versión 10\nAlmacenamiento:35 GB de espacio disponible\nNotas adicionales:Los conjuntos de chips de gráficos integrados de PC requieren Windows de 64 bits, por ejemplo, la serie Intel HD.",
+                "recomendado": "SO: Windows 7*\nProcesador: 2nd Generation Intel Core i5\nMemoria: 4 GB de RAM\nGráficos: 2 GB NVIDIA\nGeForce GTX 560 Ti or AMD Radeon HD 5870\nDirectX: Versión 11\nAlmacenamiento: 35 GB de espacio disponible\nNotas adicionales: PC integrated graphics chipsets require 64 bit Windows, e.g. Intel HD series."
+            }
+        ],
         "category": "accion"
     },
     {
         "id": 119,
         "title": "Gunner, HEAT, PC!",
-       " img": "https://i.postimg.cc/057kZgXF/Gunner-Heat.jpg",
+        "img": "https://i.postimg.cc/057kZgXF/Gunner-Heat.jpg",
         "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit.Placeat nulla quasi tempore perferendis, debitis alias, excepturi doloribus repellat aut velit ab! Saepe, recusandae vero.Ipsam architecto vitae pariatur a.Quidem.",
         "price": 100,
-        "stock": 10,
-        "requirements": "lorem ipsum dolor sit amet, ipsum dolor sit amet, ipsum dolor sit amet, ipsum",
+        "stock": 100,
+        "requirements": [
+            {
+                "minimo": "SO: Windows Vista*\nProcesador:Intel Core 2 Dúo 3 GHz\nMemoria:3 GB de RAM\nGráficos:512 MB NVIDIA GeForce 8800 GT, AMD Radeon HD 2900 XT o Intel HD 4000\nDirectX:Versión 10\nAlmacenamiento:35 GB de espacio disponible\nNotas adicionales:Los conjuntos de chips de gráficos integrados de PC requieren Windows de 64 bits, por ejemplo, la serie Intel HD.",
+                "recomendado": "SO: Windows 7*\nProcesador: 2nd Generation Intel Core i5\nMemoria: 4 GB de RAM\nGráficos: 2 GB NVIDIA\nGeForce GTX 560 Ti or AMD Radeon HD 5870\nDirectX: Versión 11\nAlmacenamiento: 35 GB de espacio disponible\nNotas adicionales: PC integrated graphics chipsets require 64 bit Windows, e.g. Intel HD series."
+            }
+        ],
         "category": "accion"
     },
     {
         "id": 120,
         "title": "Project Gunship",
-       " img": "https://i.postimg.cc/bN8zB6KJ/Project-Gunship.jpg",
-        "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit.Placeat nulla quasi tempore perferendis, debitis alias, excepturi doloribus repellat aut velit ab! Saepe, recusandae vero.Ipsam architecto vitae pariatur a.Quidem.",
+        "img": "https://i.postimg.cc/bN8zB6KJ/Project-Gunship.jpg",
+        "description": "Es un momento extraño para los fanáticos de los juegos de combate de tanques modernos. Los títulos de simuladores de tiro directo del cambio de milenio ya no existen. Como fanáticos de los tanques, necesitamos un juego que vaya directamente a lo bueno: tanques modernos, sistemas realistas y modelos de daño, y un enfoque en la diversión por encima de todo.",
         "price": 100,
-        "stock": 10,
-        "requirements": "lorem ipsum dolor sit amet, ipsum dolor sit amet, ipsum dolor sit amet, ipsum",
+        "stock": 100,
+        "requirements": [
+            {
+                "minimo": "SO: Windows Vista*\nProcesador:Intel Core 2 Dúo 3 GHz\nMemoria:3 GB de RAM\nGráficos:512 MB NVIDIA GeForce 8800 GT, AMD Radeon HD 2900 XT o Intel HD 4000\nDirectX:Versión 10\nAlmacenamiento:35 GB de espacio disponible\nNotas adicionales:Los conjuntos de chips de gráficos integrados de PC requieren Windows de 64 bits, por ejemplo, la serie Intel HD.",
+                "recomendado": "SO: Windows 7*\nProcesador: 2nd Generation Intel Core i5\nMemoria: 4 GB de RAM\nGráficos: 2 GB NVIDIA\nGeForce GTX 560 Ti or AMD Radeon HD 5870\nDirectX: Versión 11\nAlmacenamiento: 35 GB de espacio disponible\nNotas adicionales: PC integrated graphics chipsets require 64 bit Windows, e.g. Intel HD series."
+            }
+        ],
         "category": "accion"
     },
     {
         "id": 121,
         "title": "Gloomwood",
-       " img": "https://i.postimg.cc/6pbtTBT2/Gloom-Wood.jpg",
-        "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit.Placeat nulla quasi tempore perferendis, debitis alias, excepturi doloribus repellat aut velit ab! Saepe, recusandae vero.Ipsam architecto vitae pariatur a.Quidem.",
+        "img": "https://i.postimg.cc/6pbtTBT2/Gloom-Wood.jpg",
+        "description": "Gloomwood es un FPS de terror y sigilo que sigue tu misteriosa abducción a una metrópolis victoriana retorcida y olvidada en medio de una transformación horrible. Empuña tu bastón espada y adéntrate en las sombras mientras descubres el maldito misterio oculto en la niebla.",
         "price": 100,
-        "stock": 10,
-        "requirements": "lorem ipsum dolor sit amet, ipsum dolor sit amet, ipsum dolor sit amet, ipsum",
+        "stock": 100,
+        "requirements": [
+            {
+                "minimo": "SO: Windows Vista*\nProcesador:Intel Core 2 Dúo 3 GHz\nMemoria:3 GB de RAM\nGráficos:512 MB NVIDIA GeForce 8800 GT, AMD Radeon HD 2900 XT o Intel HD 4000\nDirectX:Versión 10\nAlmacenamiento:35 GB de espacio disponible\nNotas adicionales:Los conjuntos de chips de gráficos integrados de PC requieren Windows de 64 bits, por ejemplo, la serie Intel HD.",
+                "recomendado": "SO: Windows 7*\nProcesador: 2nd Generation Intel Core i5\nMemoria: 4 GB de RAM\nGráficos: 2 GB NVIDIA\nGeForce GTX 560 Ti or AMD Radeon HD 5870\nDirectX: Versión 11\nAlmacenamiento: 35 GB de espacio disponible\nNotas adicionales: PC integrated graphics chipsets require 64 bit Windows, e.g. Intel HD series."
+            }
+        ],
         "category": "accion"
     },
     {
         "id": 122,
         "title": "Red Dead Redemption 2",
-       " img": "https://i.postimg.cc/kGN758tq/Red-Dead-Redemption.jpg",
-        "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit.Placeat nulla quasi tempore perferendis, debitis alias, excepturi doloribus repellat aut velit ab! Saepe, recusandae vero.Ipsam architecto vitae pariatur a.Quidem.",
+        "img": "https://i.postimg.cc/kGN758tq/Red-Dead-Redemption.jpg",
+        "description": "Estados Unidos, 1899.\nArthur Morgan y la banda de Van der Linde son forajidos buscados. Mientras los agentes federales y los mejores cazarrecompensas de la nación les pisan los talones, la banda deberá abrirse camino por el abrupto territorio del corazón de Estados Unidos a base de robos y peleas para sobrevivir. Arthur deberá elegir entre sus propios ideales y la lealtad a la banda que lo vio crecer.",
         "price": 100,
-        "stock": 10,
-        "requirements": "lorem ipsum dolor sit amet, ipsum dolor sit amet, ipsum dolor sit amet, ipsum",
+        "stock": 100,
+        "requirements": [
+            {
+                "minimo": "SO: Windows Vista*\nProcesador:Intel Core 2 Dúo 3 GHz\nMemoria:3 GB de RAM\nGráficos:512 MB NVIDIA GeForce 8800 GT, AMD Radeon HD 2900 XT o Intel HD 4000\nDirectX:Versión 10\nAlmacenamiento:35 GB de espacio disponible\nNotas adicionales:Los conjuntos de chips de gráficos integrados de PC requieren Windows de 64 bits, por ejemplo, la serie Intel HD.",
+                "recomendado": "SO: Windows 7*\nProcesador: 2nd Generation Intel Core i5\nMemoria: 4 GB de RAM\nGráficos: 2 GB NVIDIA\nGeForce GTX 560 Ti or AMD Radeon HD 5870\nDirectX: Versión 11\nAlmacenamiento: 35 GB de espacio disponible\nNotas adicionales: PC integrated graphics chipsets require 64 bit Windows, e.g. Intel HD series."
+            }
+        ],
         "category": "aventura"
     },
     {
         "id": 123,
         "title": "Mount & Blade II: Bannerlord",
-       " img": "https://i.postimg.cc/Y0P4rW4X/Banner-Lord.jpg",
-        "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit.Placeat nulla quasi tempore perferendis, debitis alias, excepturi doloribus repellat aut velit ab! Saepe, recusandae vero.Ipsam architecto vitae pariatur a.Quidem.",
+        "img": "https://i.postimg.cc/Y0P4rW4X/Banner-Lord.jpg",
+        "description": "Los cuernos resuenan, los cuervos se reúnen. Un imperio cae destrozado por la guerra civil. Más allá de sus fronteras, nuevos reinos se levantan. Empuña tu espada, ponte tu armadura, convoca a tus seguidores y cabalga hacia la gloria en los campos de batalla de Calradia. Establece tu hegemonía y crea un mundo nuevo sobre las cenizas del anterior.\nMount & Blade II: Bannerlord es la esperadísima continuación del aclamado simulador de combate medieval y juego de rol Mount & Blade: Warband. Está ambientada 200 años antes y expande el minucioso sistema de combate y el mundo de Calradia. Bombardea fortalezas montañosas con armas de asedio, establece imperios criminales secretos en los callejones oscuros de las ciudades o cabalga hacia batallas caóticas en tu búsqueda del poder.",
         "price": 100,
-        "stock": 10,
-        "requirements": "lorem ipsum dolor sit amet, ipsum dolor sit amet, ipsum dolor sit amet, ipsum",
+        "stock": 100,
+        "requirements": [
+            {
+                "minimo": "SO: Windows Vista*\nProcesador:Intel Core 2 Dúo 3 GHz\nMemoria:3 GB de RAM\nGráficos:512 MB NVIDIA GeForce 8800 GT, AMD Radeon HD 2900 XT o Intel HD 4000\nDirectX:Versión 10\nAlmacenamiento:35 GB de espacio disponible\nNotas adicionales:Los conjuntos de chips de gráficos integrados de PC requieren Windows de 64 bits, por ejemplo, la serie Intel HD.",
+                "recomendado": "SO: Windows 7*\nProcesador: 2nd Generation Intel Core i5\nMemoria: 4 GB de RAM\nGráficos: 2 GB NVIDIA\nGeForce GTX 560 Ti or AMD Radeon HD 5870\nDirectX: Versión 11\nAlmacenamiento: 35 GB de espacio disponible\nNotas adicionales: PC integrated graphics chipsets require 64 bit Windows, e.g. Intel HD series."
+            }
+        ],
         "category": "estrategia"
     },
     {
         "id": 124,
         "title": "Dead by Daylight",
-       " img": "https://i.postimg.cc/wvT3DVLf/Deadby-Light.jpg",
-        "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit.Placeat nulla quasi tempore perferendis, debitis alias, excepturi doloribus repellat aut velit ab! Saepe, recusandae vero.Ipsam architecto vitae pariatur a.Quidem.",
+        "img": "https://i.postimg.cc/wvT3DVLf/Deadby-Light.jpg",
+        "description": "La muerte no es un escape.\nDead by Daylight es un juego de terror multijugador (4vs1) en el que un jugador asume el papel del Asesino salvaje y los otros cuatro jugadores juegan como Supervivientes, tratando de escapar del Asesino y evitar ser atrapado, torturado y asesinado.\nLos sobrevivientes juegan en tercera persona y tienen la ventaja de una mejor conciencia situacional. The Killer juega en primera persona y está más centrado en su presa.\nEl objetivo de los Supervivientes en cada encuentro es escapar del Killing Ground sin que el Asesino los atrape, algo que parece más fácil de lo que es, especialmente cuando el entorno cambia cada vez que juegas.",
         "price": 100,
-        "stock": 10,
-        "requirements": "lorem ipsum dolor sit amet, ipsum dolor sit amet, ipsum dolor sit amet, ipsum",
+        "stock": 100,
+        "requirements": [
+            {
+                "minimo": "SO: Windows Vista*\nProcesador:Intel Core 2 Dúo 3 GHz\nMemoria:3 GB de RAM\nGráficos:512 MB NVIDIA GeForce 8800 GT, AMD Radeon HD 2900 XT o Intel HD 4000\nDirectX:Versión 10\nAlmacenamiento:35 GB de espacio disponible\nNotas adicionales:Los conjuntos de chips de gráficos integrados de PC requieren Windows de 64 bits, por ejemplo, la serie Intel HD.",
+                "recomendado": "SO: Windows 7*\nProcesador: 2nd Generation Intel Core i5\nMemoria: 4 GB de RAM\nGráficos: 2 GB NVIDIA\nGeForce GTX 560 Ti or AMD Radeon HD 5870\nDirectX: Versión 11\nAlmacenamiento: 35 GB de espacio disponible\nNotas adicionales: PC integrated graphics chipsets require 64 bit Windows, e.g. Intel HD series."
+            }
+        ],
         "category": "multiplayer"
     },
     {
         "id": 125,
         "title": "Devil May Cry 5",
-       " img": "https://i.postimg.cc/j5g2c7hs/Devil-May-Cry5.jpg",
-        "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit.Placeat nulla quasi tempore perferendis, debitis alias, excepturi doloribus repellat aut velit ab! Saepe, recusandae vero.Ipsam architecto vitae pariatur a.Quidem.",
+        "img": "https://i.postimg.cc/j5g2c7hs/Devil-May-Cry5.jpg",
+        "description": "El diablo que conoces regresa en esta nueva entrada en la serie de acción exagerada disponible para PC. Prepárate para volverte francamente demoníaco con esta combinación exclusiva de acción estilizada de alto octanaje y personajes originales y de otro mundo por los que la serie es conocida. ¡El director Hideaki Itsuno y el equipo central han regresado para crear la experiencia de acción más loca, técnicamente avanzada y completamente imperdible de esta generación!\nLa amenaza del poder demoníaco ha vuelto a amenazar al mundo una vez más en Devil May Cry 5. La invasión comienza cuando las semillas de un 'árbol demoníaco' echan raíces en Red Grave City. Cuando esta incursión infernal comienza a apoderarse de la ciudad, un joven cazador de demonios, Nero, llega con su compañero Nico en su autocaravana 'Devil May Cry'. Al encontrarse sin el uso de su brazo derecho, Nero recluta a Nico, un artista de armas autoproclamado, para diseñar una variedad de brazos mecánicos únicos de Devil Breaker para darle poderes adicionales para enfrentarse a demonios malvados como Empusa voladora chupasangre y gigante. coloso enemigo Goliat.",
         "price": 100,
-        "stock": 10,
-        "requirements": "lorem ipsum dolor sit amet, ipsum dolor sit amet, ipsum dolor sit amet, ipsum",
+        "stock": 100,
+        "requirements": [
+            {
+                "minimo": "SO: Windows Vista*\nProcesador:Intel Core 2 Dúo 3 GHz\nMemoria:3 GB de RAM\nGráficos:512 MB NVIDIA GeForce 8800 GT, AMD Radeon HD 2900 XT o Intel HD 4000\nDirectX:Versión 10\nAlmacenamiento:35 GB de espacio disponible\nNotas adicionales:Los conjuntos de chips de gráficos integrados de PC requieren Windows de 64 bits, por ejemplo, la serie Intel HD.",
+                "recomendado": "SO: Windows 7*\nProcesador: 2nd Generation Intel Core i5\nMemoria: 4 GB de RAM\nGráficos: 2 GB NVIDIA\nGeForce GTX 560 Ti or AMD Radeon HD 5870\nDirectX: Versión 11\nAlmacenamiento: 35 GB de espacio disponible\nNotas adicionales: PC integrated graphics chipsets require 64 bit Windows, e.g. Intel HD series."
+            }
+        ],
         "category": "accion"
     },
     {
         "id": 126,
         "title": "ELDEN RING",
-       " img": "https://i.postimg.cc/MKcMsd4g/Elden-Ring.jpg",
-        "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit.Placeat nulla quasi tempore perferendis, debitis alias, excepturi doloribus repellat aut velit ab! Saepe, recusandae vero.Ipsam architecto vitae pariatur a.Quidem.",
+        "img": "https://i.postimg.cc/MKcMsd4g/Elden-Ring.jpg",
+        "description": "EL NUEVO RPG DE ACCIÓN DE FANTASÍA.\nLevántate, tiznado, y déjate guiar por la gracia para esgrimir el poder del Anillo de Elden y convertirte en un Señor de Elden en las Tierras Intermedias.\n• Un extenso mundo lleno de emoción\nUn extenso mundo donde los campos abiertos, con una amplia variedad de situaciones, y las enormes mazmorras, con diseños complejos y tridimensionales, se conectan con total fluidez. Al explorar, te acompaña el entusiasmo por descubrir amenazas desconocidas y abrumadoras, lo que produce unagran sensación de logro.\n• Crea tu propio personaje\nAdemás de personalizar el aspecto de tu personaje, puedes combinar libremente las armas, armadura y magia que desees equipar. Puedes desarrollar tu personaje según tu estilo de juego, como aumentar tu fuerza muscular para convertirte en un fuerte guerrero o dominar la magia.\n• Un drama épico nacido de un mito\nUna historia de múltiples capas contada en fragmentos. Un drama épico en el que los diversos pensamientos de los personajes se cruzan en las Tierras Intermedias.\n• Modo en línea único que te conecta indirectamente con otros\nAdemás del modo multijugador, donde puedes conectarte directamente con otros jugadores y viajar junto a ellos, el juego presenta un modo en línea asincrónico único, que te permite sentir la presencia de otros jugadores.",
         "price": 100,
-        "stock": 10,
-        "requirements": "lorem ipsum dolor sit amet, ipsum dolor sit amet, ipsum dolor sit amet, ipsum",
+        "stock": 100,
+        "requirements": [
+            {
+                "minimo": "SO: Windows Vista*\nProcesador:Intel Core 2 Dúo 3 GHz\nMemoria:3 GB de RAM\nGráficos:512 MB NVIDIA GeForce 8800 GT, AMD Radeon HD 2900 XT o Intel HD 4000\nDirectX:Versión 10\nAlmacenamiento:35 GB de espacio disponible\nNotas adicionales:Los conjuntos de chips de gráficos integrados de PC requieren Windows de 64 bits, por ejemplo, la serie Intel HD.",
+                "recomendado": "SO: Windows 7*\nProcesador: 2nd Generation Intel Core i5\nMemoria: 4 GB de RAM\nGráficos: 2 GB NVIDIA\nGeForce GTX 560 Ti or AMD Radeon HD 5870\nDirectX: Versión 11\nAlmacenamiento: 35 GB de espacio disponible\nNotas adicionales: PC integrated graphics chipsets require 64 bit Windows, e.g. Intel HD series."
+            }
+        ],
         "category": "accion"
     },
     {
         "id": 127,
         "title": "The Elder Scrolls V: Skyrim Special Edition",
-       " img": "https://i.postimg.cc/287Xz1Wx/Skyrim.jpg",
-        "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit.Placeat nulla quasi tempore perferendis, debitis alias, excepturi doloribus repellat aut velit ab! Saepe, recusandae vero.Ipsam architecto vitae pariatur a.Quidem.",
+        "img": "https://i.postimg.cc/287Xz1Wx/Skyrim.jpg",
+        "description": "Ganador de más de 200 premios al Juego del año, Skyrim Special Edition da vida a la fantasía épica con detalles sorprendentes. La edición especial incluye el juego aclamado por la crítica y complementos con funciones completamente nuevas, como arte y efectos remasterizados, rayos de dios volumétricos, profundidad de campo dinámica, reflejos en el espacio de la pantalla y más. Skyrim Special Edition también trae todo el poder de las modificaciones a PC y consolas. Nuevas misiones, entornos, personajes, diálogos, armaduras, armas y más: con Mods, no hay límites para lo que puedes experimentar.",
         "price": 100,
-        "stock": 10,
-        "requirements": "lorem ipsum dolor sit amet, ipsum dolor sit amet, ipsum dolor sit amet, ipsum",
+        "stock": 100,
+        "requirements": [
+            {
+                "minimo": "SO: Windows Vista*\nProcesador:Intel Core 2 Dúo 3 GHz\nMemoria:3 GB de RAM\nGráficos:512 MB NVIDIA GeForce 8800 GT, AMD Radeon HD 2900 XT o Intel HD 4000\nDirectX:Versión 10\nAlmacenamiento:35 GB de espacio disponible\nNotas adicionales:Los conjuntos de chips de gráficos integrados de PC requieren Windows de 64 bits, por ejemplo, la serie Intel HD.",
+                "recomendado": "SO: Windows 7*\nProcesador: 2nd Generation Intel Core i5\nMemoria: 4 GB de RAM\nGráficos: 2 GB NVIDIA\nGeForce GTX 560 Ti or AMD Radeon HD 5870\nDirectX: Versión 11\nAlmacenamiento: 35 GB de espacio disponible\nNotas adicionales: PC integrated graphics chipsets require 64 bit Windows, e.g. Intel HD series."
+            }
+        ],
         "category": "aventura"
     },
     {
         "id": 128,
         "title": "The Elder Scrolls V: Skyrim Anniversary Upgrade",
-       " img": "https://i.postimg.cc/ZKSMt8WR/Skyrim-Aniversary.jpg",
-        "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit.Placeat nulla quasi tempore perferendis, debitis alias, excepturi doloribus repellat aut velit ab! Saepe, recusandae vero.Ipsam architecto vitae pariatur a.Quidem.",
+        "img": "https://i.postimg.cc/ZKSMt8WR/Skyrim-Aniversary.jpg",
+        "description": "La Anniversary Upgrade incluye contenido nuevo y ya existente del Club de creación, con misiones, mazmorras, jefes, armas, hechizos y mucho más. Con las creaciones de los jugadores, hay mucho más por descubrir. Debes tener la Skyrim Special Edition para acceder a este contenido.",
         "price": 100,
-        "stock": 10,
-        "requirements": "lorem ipsum dolor sit amet, ipsum dolor sit amet, ipsum dolor sit amet, ipsum",
+        "stock": 100,
+        "requirements": [
+            {
+                "minimo": "SO: Windows Vista*\nProcesador:Intel Core 2 Dúo 3 GHz\nMemoria:3 GB de RAM\nGráficos:512 MB NVIDIA GeForce 8800 GT, AMD Radeon HD 2900 XT o Intel HD 4000\nDirectX:Versión 10\nAlmacenamiento:35 GB de espacio disponible\nNotas adicionales:Los conjuntos de chips de gráficos integrados de PC requieren Windows de 64 bits, por ejemplo, la serie Intel HD.",
+                "recomendado": "SO: Windows 7*\nProcesador: 2nd Generation Intel Core i5\nMemoria: 4 GB de RAM\nGráficos: 2 GB NVIDIA\nGeForce GTX 560 Ti or AMD Radeon HD 5870\nDirectX: Versión 11\nAlmacenamiento: 35 GB de espacio disponible\nNotas adicionales: PC integrated graphics chipsets require 64 bit Windows, e.g. Intel HD series."
+            }
+        ],
         "category": "aventura"
     },
     {
         "id": 129,
         "title": "The Witcher® 3: Wild Hunt",
-       " img": "https://i.postimg.cc/wjLtz39V/The-Witcher3.jpg",
-        "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit.Placeat nulla quasi tempore perferendis, debitis alias, excepturi doloribus repellat aut velit ab! Saepe, recusandae vero.Ipsam architecto vitae pariatur a.Quidem.",
+        "img": "https://i.postimg.cc/wjLtz39V/The-Witcher3.jpg",
+        "description": "The Witcher: Wild Hunt es un RPG de mundo abierto enfocado en la historia que se desarrolla en un impactante universo fantástico lleno de elecciones significativas y consecuencias impactantes. En The Witcher, juegas como el cazador de monstruos profesional Geralt de Rivia, quien tiene la tarea de encontrar a la Niña de la profecía en un vasto mundo abierto lleno de ciudades mercantiles, islas piratas, peligrosos pasos montañosos y cavernas olvidadas a la espera de un explorador.",
         "price": 100,
-        "stock": 10,
-        "requirements": "lorem ipsum dolor sit amet, ipsum dolor sit amet, ipsum dolor sit amet, ipsum",
+        "stock": 100,
+        "requirements": [
+            {
+                "minimo": "SO: Windows Vista*\nProcesador:Intel Core 2 Dúo 3 GHz\nMemoria:3 GB de RAM\nGráficos:512 MB NVIDIA GeForce 8800 GT, AMD Radeon HD 2900 XT o Intel HD 4000\nDirectX:Versión 10\nAlmacenamiento:35 GB de espacio disponible\nNotas adicionales:Los conjuntos de chips de gráficos integrados de PC requieren Windows de 64 bits, por ejemplo, la serie Intel HD.",
+                "recomendado": "SO: Windows 7*\nProcesador: 2nd Generation Intel Core i5\nMemoria: 4 GB de RAM\nGráficos: 2 GB NVIDIA\nGeForce GTX 560 Ti or AMD Radeon HD 5870\nDirectX: Versión 11\nAlmacenamiento: 35 GB de espacio disponible\nNotas adicionales: PC integrated graphics chipsets require 64 bit Windows, e.g. Intel HD series."
+            }
+        ],
         "category": "aventura"
     },
     {
         "id": 130,
         "title": "theHunter: Call of the Wild™",
-       " img": "https://i.postimg.cc/1zS83PtZ/The-Hunter.jpg",
-        "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit.Placeat nulla quasi tempore perferendis, debitis alias, excepturi doloribus repellat aut velit ab! Saepe, recusandae vero.Ipsam architecto vitae pariatur a.Quidem.",
+        "img": "https://i.postimg.cc/1zS83PtZ/The-Hunter.jpg",
+        "description": "Nunca antes habías experimentado un juego de caza como theHunter: Call of the Wild. Sumérgete en un mundo abierto atmosférico, lleno de vida: desde los majestuosos animales reales hasta el susurro de las hojas sobre ti mientras acechas a tu presa. Puedes decidir cazar por tu cuenta o unirte y cazar con amigos. Solo recuerda, no eres solo un visitante en este mundo, eres una parte viva y que respira de él. Cuando finalmente ves la majestuosa corona de tu primer ciervo rojo a través de la maleza, la sensación es indescriptible.",
         "price": 100,
-        "stock": 10,
-        "requirements": "lorem ipsum dolor sit amet, ipsum dolor sit amet, ipsum dolor sit amet, ipsum",
+        "stock": 100,
+        "requirements": [
+            {
+                "minimo": "SO: Windows Vista*\nProcesador:Intel Core 2 Dúo 3 GHz\nMemoria:3 GB de RAM\nGráficos:512 MB NVIDIA GeForce 8800 GT, AMD Radeon HD 2900 XT o Intel HD 4000\nDirectX:Versión 10\nAlmacenamiento:35 GB de espacio disponible\nNotas adicionales:Los conjuntos de chips de gráficos integrados de PC requieren Windows de 64 bits, por ejemplo, la serie Intel HD.",
+                "recomendado": "SO: Windows 7*\nProcesador: 2nd Generation Intel Core i5\nMemoria: 4 GB de RAM\nGráficos: 2 GB NVIDIA\nGeForce GTX 560 Ti or AMD Radeon HD 5870\nDirectX: Versión 11\nAlmacenamiento: 35 GB de espacio disponible\nNotas adicionales: PC integrated graphics chipsets require 64 bit Windows, e.g. Intel HD series."
+            }
+        ],
         "category": "simuladores"
     },
     {
         "id": 131,
         "title": "Stray",
-       " img": "https://i.postimg.cc/bYVSHK6Q/Stray.jpg",
-        "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit.Placeat nulla quasi tempore perferendis, debitis alias, excepturi doloribus repellat aut velit ab! Saepe, recusandae vero.Ipsam architecto vitae pariatur a.Quidem.",
+        "img": "https://i.postimg.cc/bYVSHK6Q/Stray.jpg",
+        "description": "Perdido, solo y separado de su familia, un gato callejero debe resolver un misterio ancestral para escapar de una ciudad caída en el olvido.\nStray es una aventura felina en tercera persona ambientada en los callejones iluminados con luces de neón de una ciberciudad en plena decadencia y el ambiente turbio de sus bajos fondos. Deambula por cada rincón de los alrededores, defiéndete de amenazas imprevistas y resuelve los misterios de este lugar inhóspito en el cual moran robots apáticos y criaturas peligrosas.\nMira el mundo a través de los ojos de un gato callejero y juguetea con todo lo que te rodea. Sé invisible, ágil e incluso torpe. Y en ocasiones, fastidia hasta el hartazgo a los habitantes extraños de este mundo desconocido.\nEn el camino, el gato se hace amigo de un dron pequeño cuyo nombre es B-12. Tras aunar esfuerzos, el dúo debe encontrar la forma de escapar de la ciudad.\nStray es desarrollado por BlueTwelve Studio, un equipo pequeño del sur de Francia, compuesto en su mayoría por gatos y algunas personas.",
         "price": 100,
-        "stock": 10,
-        "requirements": "lorem ipsum dolor sit amet, ipsum dolor sit amet, ipsum dolor sit amet, ipsum",
+        "stock": 100,
+        "requirements": [
+            {
+                "minimo": "SO: Windows Vista*\nProcesador:Intel Core 2 Dúo 3 GHz\nMemoria:3 GB de RAM\nGráficos:512 MB NVIDIA GeForce 8800 GT, AMD Radeon HD 2900 XT o Intel HD 4000\nDirectX:Versión 10\nAlmacenamiento:35 GB de espacio disponible\nNotas adicionales:Los conjuntos de chips de gráficos integrados de PC requieren Windows de 64 bits, por ejemplo, la serie Intel HD.",
+                "recomendado": "SO: Windows 7*\nProcesador: 2nd Generation Intel Core i5\nMemoria: 4 GB de RAM\nGráficos: 2 GB NVIDIA\nGeForce GTX 560 Ti or AMD Radeon HD 5870\nDirectX: Versión 11\nAlmacenamiento: 35 GB de espacio disponible\nNotas adicionales: PC integrated graphics chipsets require 64 bit Windows, e.g. Intel HD series."
+            }
+        ],
         "category": "aventura"
     },
     {
         "id": 132,
         "title": "Guild Wars 2",
-       " img": "https://i.postimg.cc/xdPck7JN/Guild-Wars2.jpg",
-        "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit.Placeat nulla quasi tempore perferendis, debitis alias, excepturi doloribus repellat aut velit ab! Saepe, recusandae vero.Ipsam architecto vitae pariatur a.Quidem.",
+        "img": "https://i.postimg.cc/xdPck7JN/Guild-Wars2.jpg",
+        "description": "El mundo abierto de Guild Wars 2 se basa en el descubrimiento y la exploración. Echa un vistazo a nuestra guía de contenido para ver sugerencias al comenzar tu aventura, consulta tu brújula para encontrar lugares interesantes... o escoge la dirección que más te guste y viaja hasta que sea la aventura la que te encuentre a ti. Tyria está llena de personajes con sus propias historias y objetivos, y tú recibirás recompensas por ayudarlos (o por frustrar sus planes) al completar corazones de prestigio y eventos dinámicos. Consulta nuestra nueva guía para jugadores nuevos para ver más consejos.",
         "price": 100,
-        "stock": 10,
-        "requirements": "lorem ipsum dolor sit amet, ipsum dolor sit amet, ipsum dolor sit amet, ipsum",
+        "stock": 100,
+        "requirements": [
+            {
+                "minimo": "SO: Windows Vista*\nProcesador:Intel Core 2 Dúo 3 GHz\nMemoria:3 GB de RAM\nGráficos:512 MB NVIDIA GeForce 8800 GT, AMD Radeon HD 2900 XT o Intel HD 4000\nDirectX:Versión 10\nAlmacenamiento:35 GB de espacio disponible\nNotas adicionales:Los conjuntos de chips de gráficos integrados de PC requieren Windows de 64 bits, por ejemplo, la serie Intel HD.",
+                "recomendado": "SO: Windows 7*\nProcesador: 2nd Generation Intel Core i5\nMemoria: 4 GB de RAM\nGráficos: 2 GB NVIDIA\nGeForce GTX 560 Ti or AMD Radeon HD 5870\nDirectX: Versión 11\nAlmacenamiento: 35 GB de espacio disponible\nNotas adicionales: PC integrated graphics chipsets require 64 bit Windows, e.g. Intel HD series."
+            }
+        ],
         "category": "multiplayer"
     },
     {
         "id": 133,
         "title": "Rust",
-       " img": "https://i.postimg.cc/8ccJgHCJ/Rust.jpg",
-        "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit.Placeat nulla quasi tempore perferendis, debitis alias, excepturi doloribus repellat aut velit ab! Saepe, recusandae vero.Ipsam architecto vitae pariatur a.Quidem.",
+        "img": "https://i.postimg.cc/8ccJgHCJ/Rust.jpg",
+        "description": "El único objetivo en Rust es sobrevivir. Todo quiere que mueras: la vida silvestre de la isla y otros habitantes, el medio ambiente, otros sobrevivientes. Haz lo que sea necesario para durar otra noche.",
         "price": 100,
-        "stock": 10,
-        "requirements": "lorem ipsum dolor sit amet, ipsum dolor sit amet, ipsum dolor sit amet, ipsum",
+        "stock": 100,
+        "requirements": [
+            {
+                "minimo": "SO: Windows Vista*\nProcesador:Intel Core 2 Dúo 3 GHz\nMemoria:3 GB de RAM\nGráficos:512 MB NVIDIA GeForce 8800 GT, AMD Radeon HD 2900 XT o Intel HD 4000\nDirectX:Versión 10\nAlmacenamiento:35 GB de espacio disponible\nNotas adicionales:Los conjuntos de chips de gráficos integrados de PC requieren Windows de 64 bits, por ejemplo, la serie Intel HD.",
+                "recomendado": "SO: Windows 7*\nProcesador: 2nd Generation Intel Core i5\nMemoria: 4 GB de RAM\nGráficos: 2 GB NVIDIA\nGeForce GTX 560 Ti or AMD Radeon HD 5870\nDirectX: Versión 11\nAlmacenamiento: 35 GB de espacio disponible\nNotas adicionales: PC integrated graphics chipsets require 64 bit Windows, e.g. Intel HD series."
+            }
+        ],
         "category": "supervivencia"
     },
     {
         "id": 134,
         "title": "Assetto Corsa",
-       " img": "https://i.postimg.cc/CxwXDG0t/Asset-Corsa.jpg",
-        "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit.Placeat nulla quasi tempore perferendis, debitis alias, excepturi doloribus repellat aut velit ab! Saepe, recusandae vero.Ipsam architecto vitae pariatur a.Quidem.",
+        "img": "https://i.postimg.cc/CxwXDG0t/Asset-Corsa.jpg",
+        "description": "SIMULADOR DE CARRERAS DE PRÓXIMA GENERACIÓN\nAssetto Corsa cuenta con un motor de gráficos DirectX 11 avanzado que recrea un entorno inmersivo, iluminación dinámica y materiales y superficies realistas. El motor de física avanzada está diseñado para proporcionar una experiencia de conducción muy realista, que incluye características y aspectos de autos reales, nunca vistos en ningún otro simulador de carreras, como pinchazos de llantas, ciclos de calor que incluyen granulación y formación de ampollas, simulación aerodinámica muy avanzada con movimiento activo. piezas de aerodinámica controladas en tiempo real por canales de entrada de telemetría, sistemas híbridos con kers y simulación de recuperación de energía. Extremadamente detallado con opciones para un jugador y multijugador, autos exclusivos con licencia reproducidos con la mejor precisión posible, gracias a la cooperación oficial de Car Manufacturers.\nASSETTO CORSA ha sido desarrollado en la oficina de I+D de KUNOS Simulazioni, ubicada dentro del circuito internacional de carreras de Vallelunga, lo que permite al equipo desarrollar el juego con la cooperación de pilotos y equipos de carreras del mundo real.",
         "price": 100,
-        "stock": 10,
-        "requirements": "lorem ipsum dolor sit amet, ipsum dolor sit amet, ipsum dolor sit amet, ipsum",
+        "stock": 100,
+        "requirements": [
+            {
+                "minimo": "SO: Windows Vista*\nProcesador:Intel Core 2 Dúo 3 GHz\nMemoria:3 GB de RAM\nGráficos:512 MB NVIDIA GeForce 8800 GT, AMD Radeon HD 2900 XT o Intel HD 4000\nDirectX:Versión 10\nAlmacenamiento:35 GB de espacio disponible\nNotas adicionales:Los conjuntos de chips de gráficos integrados de PC requieren Windows de 64 bits, por ejemplo, la serie Intel HD.",
+                "recomendado": "SO: Windows 7*\nProcesador: 2nd Generation Intel Core i5\nMemoria: 4 GB de RAM\nGráficos: 2 GB NVIDIA\nGeForce GTX 560 Ti or AMD Radeon HD 5870\nDirectX: Versión 11\nAlmacenamiento: 35 GB de espacio disponible\nNotas adicionales: PC integrated graphics chipsets require 64 bit Windows, e.g. Intel HD series."
+            }
+        ],
         "category": "carreras"
     },
     {
         "id": 135,
         "title": "F1® 22",
-       " img": "https://i.postimg.cc/xdCZp9c3/F122.jpg",
-        "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit.Placeat nulla quasi tempore perferendis, debitis alias, excepturi doloribus repellat aut velit ab! Saepe, recusandae vero.Ipsam architecto vitae pariatur a.Quidem.",
+        "img": "https://i.postimg.cc/xdCZp9c3/F122.jpg",
+        "description": "Entra en la nueva era de la Formula 1® en EA SPORTS™ F1® 22, el videojuego oficial del 2022 FIA Formula One World Championship™. Prepárate para una nueva temporada con autos rediseñados y nuevas reglas que redefinen el día de la carrera, pon a prueba tus habilidades en el nuevo Autódromo Internacional de Miami y disfruta del brillo y el glamour de la vida en la F1®.",
         "price": 100,
-        "stock": 10,
-        "requirements": "lorem ipsum dolor sit amet, ipsum dolor sit amet, ipsum dolor sit amet, ipsum",
+        "stock": 100,
+        "requirements": [
+            {
+                "minimo": "SO: Windows Vista*\nProcesador:Intel Core 2 Dúo 3 GHz\nMemoria:3 GB de RAM\nGráficos:512 MB NVIDIA GeForce 8800 GT, AMD Radeon HD 2900 XT o Intel HD 4000\nDirectX:Versión 10\nAlmacenamiento:35 GB de espacio disponible\nNotas adicionales:Los conjuntos de chips de gráficos integrados de PC requieren Windows de 64 bits, por ejemplo, la serie Intel HD.",
+                "recomendado": "SO: Windows 7*\nProcesador: 2nd Generation Intel Core i5\nMemoria: 4 GB de RAM\nGráficos: 2 GB NVIDIA\nGeForce GTX 560 Ti or AMD Radeon HD 5870\nDirectX: Versión 11\nAlmacenamiento: 35 GB de espacio disponible\nNotas adicionales: PC integrated graphics chipsets require 64 bit Windows, e.g. Intel HD series."
+            }
+        ],
         "category": "carreras"
     },
     {
         "id": 136,
         "title": "Construction Simulator",
-       " img": "https://i.postimg.cc/J4v5LLTq/Construction-Simulator.jpg",
-        "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit.Placeat nulla quasi tempore perferendis, debitis alias, excepturi doloribus repellat aut velit ab! Saepe, recusandae vero.Ipsam architecto vitae pariatur a.Quidem.",
+        "img": "https://i.postimg.cc/J4v5LLTq/Construction-Simulator.jpg",
+        "description": "Construction Simulator ha vuelto, ¡más grande y mejor que nunca! Vuelve al trabajo con una flota de vehículos cuyo tamaño te dejará boquiabierto. Más allá de marcas como Caterpillar, CASE y BELL que ya son familiares en la serie Construction Simulator, puede ponerse al volante de nuevas máquinas con licencia de socios como DAF y Doosan, más de 70 en total.",
         "price": 100,
-        "stock": 10,
-        "requirements": "lorem ipsum dolor sit amet, ipsum dolor sit amet, ipsum dolor sit amet, ipsum",
+        "stock": 100,
+        "requirements": [
+            {
+                "minimo": "SO: Windows Vista*\nProcesador:Intel Core 2 Dúo 3 GHz\nMemoria:3 GB de RAM\nGráficos:512 MB NVIDIA GeForce 8800 GT, AMD Radeon HD 2900 XT o Intel HD 4000\nDirectX:Versión 10\nAlmacenamiento:35 GB de espacio disponible\nNotas adicionales:Los conjuntos de chips de gráficos integrados de PC requieren Windows de 64 bits, por ejemplo, la serie Intel HD.",
+                "recomendado": "SO: Windows 7*\nProcesador: 2nd Generation Intel Core i5\nMemoria: 4 GB de RAM\nGráficos: 2 GB NVIDIA\nGeForce GTX 560 Ti or AMD Radeon HD 5870\nDirectX: Versión 11\nAlmacenamiento: 35 GB de espacio disponible\nNotas adicionales: PC integrated graphics chipsets require 64 bit Windows, e.g. Intel HD series."
+            }
+        ],
         "category": "simuladores"
     },
     {
         "id": 137,
         "title": "Forza Horizon 4",
-       " img": "https://i.postimg.cc/gjvtLJTm/Forz-Horizon4.jpg",
-        "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit.Placeat nulla quasi tempore perferendis, debitis alias, excepturi doloribus repellat aut velit ab! Saepe, recusandae vero.Ipsam architecto vitae pariatur a.Quidem.",
+        "img": "https://i.postimg.cc/gjvtLJTm/Forz-Horizon4.jpg",
+        "description": "Las temporadas dinámicas lo cambian todo en el mejor festival automovilístico del mundo. Juega solo o en equipo para explorar la hermosa Gran Bretaña en un mundo abierto y compartido. Colecciona, modifica y conduce más de 450 autos. Compite, crea, explora y escoge tu propio camino para convertirte en una superestrella de Horizon.",
         "price": 100,
-        "stock": 10,
-        "requirements": "lorem ipsum dolor sit amet, ipsum dolor sit amet, ipsum dolor sit amet, ipsum",
+        "stock": 100,
+        "requirements": [
+            {
+                "minimo": "SO: Windows Vista*\nProcesador:Intel Core 2 Dúo 3 GHz\nMemoria:3 GB de RAM\nGráficos:512 MB NVIDIA GeForce 8800 GT, AMD Radeon HD 2900 XT o Intel HD 4000\nDirectX:Versión 10\nAlmacenamiento:35 GB de espacio disponible\nNotas adicionales:Los conjuntos de chips de gráficos integrados de PC requieren Windows de 64 bits, por ejemplo, la serie Intel HD.",
+                "recomendado": "SO: Windows 7*\nProcesador: 2nd Generation Intel Core i5\nMemoria: 4 GB de RAM\nGráficos: 2 GB NVIDIA\nGeForce GTX 560 Ti or AMD Radeon HD 5870\nDirectX: Versión 11\nAlmacenamiento: 35 GB de espacio disponible\nNotas adicionales: PC integrated graphics chipsets require 64 bit Windows, e.g. Intel HD series."
+            }
+        ],
         "category": "carreras"
     },
     {
         "id": 138,
         "title": "Forza Horizon 5",
-       " img": "https://i.postimg.cc/85f0DwdF/Forz-Horizon5.jpg",
-        "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit.Placeat nulla quasi tempore perferendis, debitis alias, excepturi doloribus repellat aut velit ab! Saepe, recusandae vero.Ipsam architecto vitae pariatur a.Quidem.",
+        "img": "https://i.postimg.cc/85f0DwdF/Forz-Horizon5.jpg",
+        "description": "¡Te espera tu aventura definitiva en Horizon! Conduce cientos de autos fenomenales de todo el mundo en emocionantes expediciones a lo largo y ancho de los impactantes paisajes de México, en un juego ambientado en un mundo abierto que está en constante evolución.",
         "price": 100,
-        "stock": 10,
-        "requirements": "lorem ipsum dolor sit amet, ipsum dolor sit amet, ipsum dolor sit amet, ipsum",
+        "stock": 100,
+        "requirements": [
+            {
+                "minimo": "SO: Windows Vista*\nProcesador:Intel Core 2 Dúo 3 GHz\nMemoria:3 GB de RAM\nGráficos:512 MB NVIDIA GeForce 8800 GT, AMD Radeon HD 2900 XT o Intel HD 4000\nDirectX:Versión 10\nAlmacenamiento:35 GB de espacio disponible\nNotas adicionales:Los conjuntos de chips de gráficos integrados de PC requieren Windows de 64 bits, por ejemplo, la serie Intel HD.",
+                "recomendado": "SO: Windows 7*\nProcesador: 2nd Generation Intel Core i5\nMemoria: 4 GB de RAM\nGráficos: 2 GB NVIDIA\nGeForce GTX 560 Ti or AMD Radeon HD 5870\nDirectX: Versión 11\nAlmacenamiento: 35 GB de espacio disponible\nNotas adicionales: PC integrated graphics chipsets require 64 bit Windows, e.g. Intel HD series."
+            }
+        ],
         "category": "carreras"
     },
     {
         "id": 139,
         "title": "HOT WHEELS UNLEASHED™",
-       " img": "https://i.postimg.cc/CKQQW98T/Hot-Wheels.jpg",
-        "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit.Placeat nulla quasi tempore perferendis, debitis alias, excepturi doloribus repellat aut velit ab! Saepe, recusandae vero.Ipsam architecto vitae pariatur a.Quidem.",
+        "img": "https://i.postimg.cc/CKQQW98T/Hot-Wheels.jpg",
+        "description": "Colecciona los mejores vehículos del universo de Hot Wheels™, construye pistas espectaculares y lánzate a las carreras más electrizantes.",
         "price": 100,
-        "stock": 10,
-        "requirements": "lorem ipsum dolor sit amet, ipsum dolor sit amet, ipsum dolor sit amet, ipsum",
+        "stock": 100,
+        "requirements": [
+            {
+                "minimo": "SO: Windows Vista*\nProcesador:Intel Core 2 Dúo 3 GHz\nMemoria:3 GB de RAM\nGráficos:512 MB NVIDIA GeForce 8800 GT, AMD Radeon HD 2900 XT o Intel HD 4000\nDirectX:Versión 10\nAlmacenamiento:35 GB de espacio disponible\nNotas adicionales:Los conjuntos de chips de gráficos integrados de PC requieren Windows de 64 bits, por ejemplo, la serie Intel HD.",
+                "recomendado": "SO: Windows 7*\nProcesador: 2nd Generation Intel Core i5\nMemoria: 4 GB de RAM\nGráficos: 2 GB NVIDIA\nGeForce GTX 560 Ti or AMD Radeon HD 5870\nDirectX: Versión 11\nAlmacenamiento: 35 GB de espacio disponible\nNotas adicionales: PC integrated graphics chipsets require 64 bit Windows, e.g. Intel HD series."
+            }
+        ],
         "category": "carreras"
     },
     {
         "id": 140,
         "title": "Need for Speed™ Heat",
-       " img": "https://i.postimg.cc/SR0tK8Vg/Need-For-Speed-Heat.jpg",
-        "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit.Placeat nulla quasi tempore perferendis, debitis alias, excepturi doloribus repellat aut velit ab! Saepe, recusandae vero.Ipsam architecto vitae pariatur a.Quidem.",
+        "img": "https://i.postimg.cc/SR0tK8Vg/Need-For-Speed-Heat.jpg",
+        "description": "Una emocionante experiencia de carreras en la que te enfrentas a la policía corrupta de una ciudad mientras luchas por alcanzar la élite de las carreras callejeras.",
         "price": 100,
-        "stock": 10,
-        "requirements": "lorem ipsum dolor sit amet, ipsum dolor sit amet, ipsum dolor sit amet, ipsum",
+        "stock": 100,
+        "requirements": [
+            {
+                "minimo": "SO: Windows Vista*\nProcesador:Intel Core 2 Dúo 3 GHz\nMemoria:3 GB de RAM\nGráficos:512 MB NVIDIA GeForce 8800 GT, AMD Radeon HD 2900 XT o Intel HD 4000\nDirectX:Versión 10\nAlmacenamiento:35 GB de espacio disponible\nNotas adicionales:Los conjuntos de chips de gráficos integrados de PC requieren Windows de 64 bits, por ejemplo, la serie Intel HD.",
+                "recomendado": "SO: Windows 7*\nProcesador: 2nd Generation Intel Core i5\nMemoria: 4 GB de RAM\nGráficos: 2 GB NVIDIA\nGeForce GTX 560 Ti or AMD Radeon HD 5870\nDirectX: Versión 11\nAlmacenamiento: 35 GB de espacio disponible\nNotas adicionales: PC integrated graphics chipsets require 64 bit Windows, e.g. Intel HD series."
+            }
+        ],
         "category": "carreras"
     },
     {
         "id": 141,
         "title": "SnowRunner",
-       " img": "https://i.postimg.cc/T2m447YF/Snow-Runner.jpg",
-        "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit.Placeat nulla quasi tempore perferendis, debitis alias, excepturi doloribus repellat aut velit ab! Saepe, recusandae vero.Ipsam architecto vitae pariatur a.Quidem.",
+        "img": "https://i.postimg.cc/T2m447YF/Snow-Runner.jpg",
+        "description": "SnowRunner lo coloca en el asiento del conductor de poderosos vehículos mientras conquista entornos abiertos extremos con la simulación de terreno más avanzada jamás vista. Conduce 40 vehículos de marcas como Ford, Chevrolet y Freightliner mientras dejas tu huella en un mundo abierto indómito.",
         "price": 100,
-        "stock": 10,
-        "requirements": "lorem ipsum dolor sit amet, ipsum dolor sit amet, ipsum dolor sit amet, ipsum",
+        "stock": 100,
+        "requirements": [
+            {
+                "minimo": "SO: Windows Vista*\nProcesador:Intel Core 2 Dúo 3 GHz\nMemoria:3 GB de RAM\nGráficos:512 MB NVIDIA GeForce 8800 GT, AMD Radeon HD 2900 XT o Intel HD 4000\nDirectX:Versión 10\nAlmacenamiento:35 GB de espacio disponible\nNotas adicionales:Los conjuntos de chips de gráficos integrados de PC requieren Windows de 64 bits, por ejemplo, la serie Intel HD.",
+                "recomendado": "SO: Windows 7*\nProcesador: 2nd Generation Intel Core i5\nMemoria: 4 GB de RAM\nGráficos: 2 GB NVIDIA\nGeForce GTX 560 Ti or AMD Radeon HD 5870\nDirectX: Versión 11\nAlmacenamiento: 35 GB de espacio disponible\nNotas adicionales: PC integrated graphics chipsets require 64 bit Windows, e.g. Intel HD series."
+            }
+        ],
         "category": "simuladores"
     },
     {
         "id": 142,
         "title": "OCTOPATH TRAVELER™",
-       " img": "https://i.postimg.cc/X7626Bns/octopathtraveler.jpg",
-        "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit.Placeat nulla quasi tempore perferendis, debitis alias, excepturi doloribus repellat aut velit ab! Saepe, recusandae vero.Ipsam architecto vitae pariatur a.Quidem.",
+        "img": "https://i.postimg.cc/X7626Bns/octopathtraveler.jpg",
+        "description": "Ocho viajeros. Ocho aventuras. Ocho papeles para jugar. Embárcate en un viaje épico por el vasto y maravilloso mundo de Orsterra y descubre las cautivadoras historias de cada uno de los ocho viajeros.",
         "price": 100,
-        "stock": 10,
-        "requirements": "lorem ipsum dolor sit amet, ipsum dolor sit amet, ipsum dolor sit amet, ipsum",
+        "stock": 100,
+        "requirements": [
+            {
+                "minimo": "SO: Windows Vista*\nProcesador:Intel Core 2 Dúo 3 GHz\nMemoria:3 GB de RAM\nGráficos:512 MB NVIDIA GeForce 8800 GT, AMD Radeon HD 2900 XT o Intel HD 4000\nDirectX:Versión 10\nAlmacenamiento:35 GB de espacio disponible\nNotas adicionales:Los conjuntos de chips de gráficos integrados de PC requieren Windows de 64 bits, por ejemplo, la serie Intel HD.",
+                "recomendado": "SO: Windows 7*\nProcesador: 2nd Generation Intel Core i5\nMemoria: 4 GB de RAM\nGráficos: 2 GB NVIDIA\nGeForce GTX 560 Ti or AMD Radeon HD 5870\nDirectX: Versión 11\nAlmacenamiento: 35 GB de espacio disponible\nNotas adicionales: PC integrated graphics chipsets require 64 bit Windows, e.g. Intel HD series."
+            }
+        ],
         "category": "rol"
     },
     {
         "id": 143,
         "title": "NieR Replicant™",
-       " img": "https://i.postimg.cc/tJW2VpNd/nierreplicant.jpg",
-        "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit.Placeat nulla quasi tempore perferendis, debitis alias, excepturi doloribus repellat aut velit ab! Saepe, recusandae vero.Ipsam architecto vitae pariatur a.Quidem.",
+        "img": "https://i.postimg.cc/tJW2VpNd/nierreplicant.jpg",
+        "description": "NieR Replicant ver.1.22474487139... es una versión actualizada de NieR Replicant, anteriormente solo lanzada en Japón.\nDescubre la precuela única en su tipo de la obra maestra aclamada por la crítica NieR:Automata. ¡Ahora, con una actualización moderna, experimente imágenes revividas magistralmente, una historia fascinante y más!\nEl protagonista es un joven amable que vive en un pueblo remoto. Con el fin de salvar a su hermana Yonah, quien enfermó de forma terminal a causa del Garabato Negro, parte con Grimoire Weiss, un extraño tomo parlante, en busca de los 'versos sellados'.",
         "price": 100,
-        "stock": 10,
-        "requirements": "lorem ipsum dolor sit amet, ipsum dolor sit amet, ipsum dolor sit amet, ipsum",
+        "stock": 100,
+        "requirements": [
+            {
+                "minimo": "SO: Windows Vista*\nProcesador:Intel Core 2 Dúo 3 GHz\nMemoria:3 GB de RAM\nGráficos:512 MB NVIDIA GeForce 8800 GT, AMD Radeon HD 2900 XT o Intel HD 4000\nDirectX:Versión 10\nAlmacenamiento:35 GB de espacio disponible\nNotas adicionales:Los conjuntos de chips de gráficos integrados de PC requieren Windows de 64 bits, por ejemplo, la serie Intel HD.",
+                "recomendado": "SO: Windows 7*\nProcesador: 2nd Generation Intel Core i5\nMemoria: 4 GB de RAM\nGráficos: 2 GB NVIDIA\nGeForce GTX 560 Ti or AMD Radeon HD 5870\nDirectX: Versión 11\nAlmacenamiento: 35 GB de espacio disponible\nNotas adicionales: PC integrated graphics chipsets require 64 bit Windows, e.g. Intel HD series."
+            }
+        ],
         "category": "rol"
     },
     {
         "id": 144,
         "title": "Atelier Ryza 2: Lost Legends & the Secret Fairy",
-       " img": "https://i.postimg.cc/NGHNnkvy/atelier-Ryza2.jpg",
-        "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit.Placeat nulla quasi tempore perferendis, debitis alias, excepturi doloribus repellat aut velit ab! Saepe, recusandae vero.Ipsam architecto vitae pariatur a.Quidem.",
+        "img": "https://i.postimg.cc/NGHNnkvy/atelier-Ryza2.jpg",
+        "description": "Esta historia transcurre tres años después del juego anterior, “Atelier Ryza: Ever Darkness & the Secret Hideout” , y muestra el reencuentro entre Ryza y sus amigos, que pasarán por encuentros y desencuentros y descubrirán un tesoro valiosísimo.\n《La historia》\nHan pasado tres años desde la gran aventura secreta de Ryza en Kurken Island. Ryza, la única de su grupo en quedarse en la isla, recibe una carta sobre ruinas relacionadas con la alquimia y una petición relacionada con una piedra brillante. Eso le inspira a dejar la isla y acudir a la capital real, Ashra-am Baird. Sin embargo, Ryza no puede imaginarse que esto será el comienzo de una nueva aventura en la que investigará los misterios de la ciudad y se encontrará con una criatura que cambiará su vida.",
         "price": 100,
-        "stock": 10,
-        "requirements": "lorem ipsum dolor sit amet, ipsum dolor sit amet, ipsum dolor sit amet, ipsum",
+        "stock": 100,
+        "requirements": [
+            {
+                "minimo": "SO: Windows Vista*\nProcesador:Intel Core 2 Dúo 3 GHz\nMemoria:3 GB de RAM\nGráficos:512 MB NVIDIA GeForce 8800 GT, AMD Radeon HD 2900 XT o Intel HD 4000\nDirectX:Versión 10\nAlmacenamiento:35 GB de espacio disponible\nNotas adicionales:Los conjuntos de chips de gráficos integrados de PC requieren Windows de 64 bits, por ejemplo, la serie Intel HD.",
+                "recomendado": "SO: Windows 7*\nProcesador: 2nd Generation Intel Core i5\nMemoria: 4 GB de RAM\nGráficos: 2 GB NVIDIA\nGeForce GTX 560 Ti or AMD Radeon HD 5870\nDirectX: Versión 11\nAlmacenamiento: 35 GB de espacio disponible\nNotas adicionales: PC integrated graphics chipsets require 64 bit Windows, e.g. Intel HD series."
+            }
+        ],
         "category": "rol"
     },
     {
         "id": 145,
         "title": "Atelier Ryza: Ever Darkness & the Secret Hideout",
-       " img": "https://i.postimg.cc/k4kT4BKX/atelier-Ryza.jpg",
-        "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit.Placeat nulla quasi tempore perferendis, debitis alias, excepturi doloribus repellat aut velit ab! Saepe, recusandae vero.Ipsam architecto vitae pariatur a.Quidem.",
+        "img": "https://i.postimg.cc/k4kT4BKX/atelier-Ryza.jpg",
+        "description": "El concepto de este juego, el más reciente de la serie que muestra un nuevo mundo de 'Atelier', es 'Jóvenes realistas que juntos se desarrollan, aunque sea solo un poco'.Es la historia de una chica y de sus amigos que, al borde de la mayoría de edad, descubren lo que de verdad importa.Para mostrar una historia en la que los personajes descubren cosas que nunca antes habían visto, hemos creado campos con sombras naturales para que el mundo parezca más vivo. Hemos mejorado aún más los gráficos, creando un mundo que muestra la vida cotidiana y las aventuras como nunca antes.",
         "price": 100,
-        "stock": 10,
-        "requirements": "lorem ipsum dolor sit amet, ipsum dolor sit amet, ipsum dolor sit amet, ipsum",
+        "stock": 100,
+        "requirements": [
+            {
+                "minimo": "SO: Windows Vista*\nProcesador:Intel Core 2 Dúo 3 GHz\nMemoria:3 GB de RAM\nGráficos:512 MB NVIDIA GeForce 8800 GT, AMD Radeon HD 2900 XT o Intel HD 4000\nDirectX:Versión 10\nAlmacenamiento:35 GB de espacio disponible\nNotas adicionales:Los conjuntos de chips de gráficos integrados de PC requieren Windows de 64 bits, por ejemplo, la serie Intel HD.",
+                "recomendado": "SO: Windows 7*\nProcesador: 2nd Generation Intel Core i5\nMemoria: 4 GB de RAM\nGráficos: 2 GB NVIDIA\nGeForce GTX 560 Ti or AMD Radeon HD 5870\nDirectX: Versión 11\nAlmacenamiento: 35 GB de espacio disponible\nNotas adicionales: PC integrated graphics chipsets require 64 bit Windows, e.g. Intel HD series."
+            }
+        ],
         "category": "rol"
     },
     {
         "id": 146,
         "title": "DRAGON QUEST XI S: Ecos de un pasado perdido",
-       " img": "https://i.postimg.cc/wvtWghtG/dragon-Cuest-XI.jpg",
-        "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit.Placeat nulla quasi tempore perferendis, debitis alias, excepturi doloribus repellat aut velit ab! Saepe, recusandae vero.Ipsam architecto vitae pariatur a.Quidem.",
+        "img": "https://i.postimg.cc/wvtWghtG/dragon-Cuest-XI.jpg",
+        "description": "La Definitive Edition incluye todo el contenido del lanzamiento original del aclamado DRAGON QUEST XI y agrega escenarios adicionales específicos de personajes, la opción de jugar con la banda sonora original o una gran versión orquestal de la música, la capacidad de cambiar entre 2D y Modos gráficos en 3D, una opción de actuación de voz japonesa y mucho más.",
         "price": 100,
-        "stock": 10,
-        "requirements": "lorem ipsum dolor sit amet, ipsum dolor sit amet, ipsum dolor sit amet, ipsum",
+        "stock": 100,
+        "requirements": [
+            {
+                "minimo": "SO: Windows Vista*\nProcesador:Intel Core 2 Dúo 3 GHz\nMemoria:3 GB de RAM\nGráficos:512 MB NVIDIA GeForce 8800 GT, AMD Radeon HD 2900 XT o Intel HD 4000\nDirectX:Versión 10\nAlmacenamiento:35 GB de espacio disponible\nNotas adicionales:Los conjuntos de chips de gráficos integrados de PC requieren Windows de 64 bits, por ejemplo, la serie Intel HD.",
+                "recomendado": "SO: Windows 7*\nProcesador: 2nd Generation Intel Core i5\nMemoria: 4 GB de RAM\nGráficos: 2 GB NVIDIA\nGeForce GTX 560 Ti or AMD Radeon HD 5870\nDirectX: Versión 11\nAlmacenamiento: 35 GB de espacio disponible\nNotas adicionales: PC integrated graphics chipsets require 64 bit Windows, e.g. Intel HD series."
+            }
+        ],
         "category": "rol"
     }
 ]
-

@@ -54,16 +54,19 @@ const Checktout = () => {
             {
                 showId ? <p>Tu codigo de compra es {orderId === "" ? "CARGANDO..." : orderId} </p>
                     : <div className='container'>
+                        <h1>Ingrese sus datos para generar la orden de compra</h1>
+                        <div className='container-contacto'>
                         <form action="">
-                            <input onChange={(e) => setNombre(e.target.value)} type="text" placeholder='nombre' />
-                            <input onChange={(e) => setApellido(e.target.value)} type="text" placeholder='apellido' />
-                            <input onChange={(e) => setDni(e.target.value)} type="number" placeholder='dni' />
-                            <input onChange={(e) => setEmail(e.target.value)} type="text" placeholder="email" />
-                            <input onChange={(e) => setTelefono(e.target.value)} type="number" placeholder='telefono' />
-                            <input onChange={(e) => setDireccion(e.target.value)} type="text" placeholder='direccion' />
-                            <input onChange={(e) => setCodigopostal(e.target.value)} type="text" placeholder="codigo postal" />
+                            <input onChange={(e) => setNombre(e.target.value)} type="text" placeholder='Nombre' />
+                            <input onChange={(e) => setApellido(e.target.value)} type="text" placeholder='Apellido' />
+                            <input onChange={(e) => setDni(e.target.value)} type="number" placeholder='DNI' />
+                            <input onChange={(e) => setEmail(e.target.value)} type="text" placeholder="Email" />
+                            <input onChange={(e) => setTelefono(e.target.value)} type="number" placeholder='Teléfono' />
+                            <input onChange={(e) => setDireccion(e.target.value)} type="text" placeholder='Dirección' />
+                            <input onChange={(e) => setCodigopostal(e.target.value)} type="text" placeholder="Código Postal" />
                             <button type='button' onClick={FinalizarCompra}>Finalizar</button>
                         </form>
+                        </div>
                     </div>
             }
 
