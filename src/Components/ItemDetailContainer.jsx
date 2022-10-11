@@ -14,7 +14,7 @@ const ItemDetailContainer = () => {
         const querydb = getFirestore();
         const queryDoc = doc(querydb, 'gamelist', idItem)
         getDoc(queryDoc)
-            .then(res => setData({ id: res.id, ...res.data() }))
+        .then((res) => setData({ id: res.id,...res.data() }));
 
         const getIsLoading = new Promise((resolve) => {
             setTimeout(() => {
@@ -23,10 +23,10 @@ const ItemDetailContainer = () => {
         });
         getIsLoading.then(res => setIsLoading(res));
     }, [idItem])
-
+    console.log(data);
     return (
         <>
-            {isLoading ? <Loading /> : <ItemDetail data={data} />}
+            {isLoading ? <Loading /> : <ItemDetail item={data} />}
         </>
     )
 };

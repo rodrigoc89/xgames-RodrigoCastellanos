@@ -9,7 +9,7 @@
         "requirements": [
             {
                 "minimo": "SO: Windows Vista*\nProcesador:Intel Core 2 Dúo 3 GHz\nMemoria:3 GB de RAM\nGráficos:512 MB NVIDIA GeForce 8800 GT, AMD Radeon HD 2900 XT o Intel HD 4000\nDirectX:Versión 10\nAlmacenamiento:35 GB de espacio disponible\nNotas adicionales:Los conjuntos de chips de gráficos integrados de PC requieren Windows de 64 bits, por ejemplo, la serie Intel HD.",
-                "recomendado": "SO: Windows 7*\nProcesador: 2nd Generation Intel Core i5\nMemoria: 4 GB de RAM\nGráficos: 2 GB NVIDIA\nGeForce GTX 560 Ti or AMD Radeon HD 5870\nDirectX: Versión 11\nAlmacenamiento: 35 GB de espacio disponible\nNotas adicionales: PC integrated graphics chipsets require 64 bit Windows, e.g. Intel HD series."
+                "recomendado": "SO: Windows 7*\nProcesador: 2nd Generación Intel Core i5\nMemoria: 4 GB de RAM\nGráficos: 2 GB NVIDIA\nGeForce GTX 560 Ti or AMD Radeon HD 5870\nDirectX: Versión 11\nAlmacenamiento: 35 GB de espacio disponible\nNotas adicionales: PC integrated graphics chipsets require 64 bit Windows, e.g. Intel HD series."
             }
         ],
         "category": "estrategia"
@@ -24,7 +24,7 @@
         "requirements": [
             {
                 "minimo": "SO: Windows Vista*\nProcesador:Intel Core 2 Dúo 3 GHz\nMemoria:3 GB de RAM\nGráficos:512 MB NVIDIA GeForce 8800 GT, AMD Radeon HD 2900 XT o Intel HD 4000\nDirectX:Versión 10\nAlmacenamiento:35 GB de espacio disponible\nNotas adicionales:Los conjuntos de chips de gráficos integrados de PC requieren Windows de 64 bits, por ejemplo, la serie Intel HD.",
-                "recomendado": "SO: Windows 7*\nProcesador: 2nd Generation Intel Core i5\nMemoria: 4 GB de RAM\nGráficos: 2 GB NVIDIA\nGeForce GTX 560 Ti or AMD Radeon HD 5870\nDirectX: Versión 11\nAlmacenamiento: 35 GB de espacio disponible\nNotas adicionales: PC integrated graphics chipsets require 64 bit Windows, e.g. Intel HD series."
+                "recomendado": "SO: Windows 7*\nProcesador: 2nd Generación Intel Core i5\nMemoria: 4 GB de RAM\nGráficos: 2 GB NVIDIA\nGeForce GTX 560 Ti or AMD Radeon HD 5870\nDirectX: Versión 11\nAlmacenamiento: 35 GB de espacio disponible\nNotas adicionales: PC integrated graphics chipsets require 64 bit Windows, e.g. Intel HD series."
             }
         ],
         "category": "estrategia"
@@ -39,7 +39,7 @@
         "requirements": [
             {
                 "minimo": "SO: Windows Vista*\nProcesador:Intel Core 2 Dúo 3 GHz\nMemoria:3 GB de RAM\nGráficos:512 MB NVIDIA GeForce 8800 GT, AMD Radeon HD 2900 XT o Intel HD 4000\nDirectX:Versión 10\nAlmacenamiento:35 GB de espacio disponible\nNotas adicionales:Los conjuntos de chips de gráficos integrados de PC requieren Windows de 64 bits, por ejemplo, la serie Intel HD.",
-                "recomendado": "SO: Windows 7*\nProcesador: 2nd Generation Intel Core i5\nMemoria: 4 GB de RAM\nGráficos: 2 GB NVIDIA\nGeForce GTX 560 Ti or AMD Radeon HD 5870\nDirectX: Versión 11\nAlmacenamiento: 35 GB de espacio disponible\nNotas adicionales: PC integrated graphics chipsets require 64 bit Windows, e.g. Intel HD series."
+                "recomendado": "SO: Windows 7*\nProcesador: 2nd Generación Intel Core i5\nMemoria: 4 GB de RAM\nGráficos: 2 GB NVIDIA\nGeForce GTX 560 Ti or AMD Radeon HD 5870\nDirectX: Versión 11\nAlmacenamiento: 35 GB de espacio disponible\nNotas adicionales: PC integrated graphics chipsets require 64 bit Windows, e.g. Intel HD series."
             }
         ],
         "category": "estrategia"
@@ -54,7 +54,7 @@
         "requirements": [
             {
                 "minimo": "SO: Windows Vista*\nProcesador:Intel Core 2 Dúo 3 GHz\nMemoria:3 GB de RAM\nGráficos:512 MB NVIDIA GeForce 8800 GT, AMD Radeon HD 2900 XT o Intel HD 4000\nDirectX:Versión 10\nAlmacenamiento:35 GB de espacio disponible\nNotas adicionales:Los conjuntos de chips de gráficos integrados de PC requieren Windows de 64 bits, por ejemplo, la serie Intel HD.",
-                "recomendado": "SO: Windows 7*\nProcesador: 2nd Generation Intel Core i5\nMemoria: 4 GB de RAM\nGráficos: 2 GB NVIDIA\nGeForce GTX 560 Ti or AMD Radeon HD 5870\nDirectX: Versión 11\nAlmacenamiento: 35 GB de espacio disponible\nNotas adicionales: PC integrated graphics chipsets require 64 bit Windows, e.g. Intel HD series."
+                "recomendado": "SO: Windows 7*\nProcesador: 2nd Generación Intel Core i5\nMemoria: 4 GB de RAM\nGráficos: 2 GB NVIDIA\nGeForce GTX 560 Ti or AMD Radeon HD 5870\nDirectX: Versión 11\nAlmacenamiento: 35 GB de espacio disponible\nNotas adicionales: PC integrated graphics chipsets require 64 bit Windows, e.g. Intel HD series."
             }
         ],
         "category": "estrategia"

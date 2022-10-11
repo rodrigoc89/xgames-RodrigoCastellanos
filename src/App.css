@@ -93,6 +93,7 @@ a {
     padding-bottom: 30px;
 }
 
+
 #drop{
     background-color: #9C27B0;
 }
@@ -198,6 +199,7 @@ a {
     font-size: 30px;
     text-align: center;
     color: #9d2c06;
+    
 }
 
 .cart{
@@ -241,6 +243,7 @@ a {
     text-align: center;
     font-size: 30px;
     text-transform: uppercase;
+    margin-bottom: 30px;
 
 }
 
@@ -254,6 +257,22 @@ a {
 
 .item-price {
     text-align: center;
+    margin-top: 20px;
+    font-size: 35px;
+}
+
+.item-description {
+    margin: auto;
+    padding: auto;
+    text-align: left;
+
+}
+
+.item-requiriments {
+  
+    width: 50%;
+    flex: 0 0 auto;
+
 }
 
 #item-detail-description {
@@ -266,21 +285,6 @@ a {
 #info{
     margin-top: 50px;
 }
-
-.item-description {
-    margin: auto;
-    padding: auto;
-    text-align: center;
-
-}
-
-.item-requiriments {
-  
-    width: 50%;
-    flex: 0 0 auto;
-
-}
-
 
 .itemCart{
     display:flex;
@@ -361,6 +365,8 @@ a {
     justify-content: space-between;
     max-width: 200px;
     align-items: center;
+    margin-left: 40%;
+    margin-top: 20px;
   
 }
 
